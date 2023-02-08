@@ -1,0 +1,775 @@
+﻿DEREX Exchange 
+The world’s first decentralized regulations exchange
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Whitepaper v4.6
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The World’s First Decentralized Regulations Exchange based on bonds
+Bonds Pool
+LP via Bonds
+Vesting duration
+Initial Bond Offerings
+OTC bonds
+Bond buyback program
+Circuit Breakers
+Types of Circuit Breakers
+Secure Floor
+Rug Pull Protection
+Private / Public Pools
+Pool forking
+Deadend for scammer projects
+Secure Floor plus Circuit Breaker combination
+Investor benefits
+Index Funds
+Decentralized SPAC
+IBO fee structure
+Fee Breakdown
+Licensee Fee Opportunity
+Zero tax trigger
+Dynamic Fees
+Coefficient
+Front Running
+Provide Users Passive Income
+Tokenomics
+Early investors and team allocation
+Router introduction
+Router between projects to Qonetum finance Foundation
+Supply
+Fee to token price correlated business model
+Fee Breakdown
+Wallet staking up to 10% APY
+100% Fee Reimbursement
+Security Compliant Strategy
+Multi DEX
+ROI Booster
+Graduate from IBO to PDO
+Governance
+Dumper Shield
+Licensing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Market overview
+Decentralized exchanges (DEXs) have become increasingly popular in recent years, offer many advantages, such as increased security and privacy. However, DEXs also face issues related to dumping that need to be addressed in order for the decentralized finance (DeFi) market to continue to evolve.
+Dumping is a concern on DEXs, as it occurs when large holders of an asset sell their holdings in a short period of time and at a lower price, causing a decline in the asset's value. This can lead to significant losses for traders and can negatively impact the overall market. In the past, the stock market faced similar issues with dumping, but circuit breakers solutions were put into place to address them.
+In the early days of the stock market, there were no regulations to prevent market manipulation or excessive volatility. However, over time, regulations were implemented, such as circuit breakers, which are used to temporarily halt trading in a market in order to prevent excessive price fluctuations. 
+
+
+The prisoner's dilemma game theory
+The design of current DeFi pools creates a conflict of interest between liquidity providers and traders. Both parties have an interest in interacting with the pools as long as the other party is not dumping. However, since there is no clear indication of when each party will become a dumper, they are faced with a dilemma. They must decide whether to hold on to their assets, in the hope that the other party will do the same, or to dump first due to the risk that the other party may do the same.
+
+
+LP dumping 
+When a liquidity provider sells off their LP tokens, it exacerbates the problem by increasing pool slippage. This is because not only is the liquidity provider selling off their tokens back to the pool, but the pool depth is also changing, making the slippage more severe for the next trade. 
+The trend of LPs dumping their tokens is like a snowball effect, leading the project's downfall.
+
+
+Non-sustainable Liquidity
+Due to the inherent risk in pools, liquidity providers retain the ability to sell off their LP tokens at any time and move to other pools, balancing risk and reward opportunities. Such actions can leave the project with unsustainable liquidity and risk its scalability. When projects lock LP tokens under long-term vesting smart contracts, it poses a risk to liquidity providers as well, as the market may have declined by the time the staking period ends, leaving them with a large amount of worthless tokens.
+
+
+
+
+The future of DeFi 
+In order for DeFi to evolve, it is essential to implement decentralized solutions and decentralized regulations to address these issues, similar to what was done in the stock market years ago.
+The World’s First Decentralized Regulations Exchange
+
+
+The Decentralized Regulations Exchange (DEREX) aims to revolutionize the decentralized exchange (DEX) market by incorporating a decentralized circuit breaker system and dynamic features similar to those found on centralized exchanges like the NASDAQ.  
+
+
+Those solutions will remove the conflict of interest between the parties and protect investors and liquidity providers (LPs) from unexpected volatility.
+
+
+The DEREX exchange features four components:
+1. Circuit Breakers
+2. Secure Floor 
+3. Dynamic fees 
+4. Bonds
+
+
+
+
+Circuit breakers
+Circuit breakers were first introduced in the stock market following the Black Monday crash of 1987, where the Dow Jones Industrial Average dropped 22.6% in one day. The purpose of circuit breakers is to prevent panic selling and stabilize volatility for certain periods of time.
+The Decentralized Regulations Exchange (DEREX) utilizes a similar concept of circuit breakers to limit slippage to a certain percentage for a certain duration of time. These circuit breakers are set and controlled by liquidity providers (LPs) since they are the ones backing the pools and their funds are at risk. 
+Under the DEREX protocol, LPs are incentivized to maintain healthy slippage, as they are subject to the same circuit breakers that protect the rest of the traders in the market.
+
+
+Types of Circuit Breakers
+Liquidity providers can set limitations on the pool through voting. There are five types of circuit breakers:
+1. Single Transaction  
+This type of circuit breaker limits a wallet to perform no more than one transaction per time period. Such limitations can be useful to prevent quick finger or bot trades from having an advantage over other users, especially in cases of different time zones or front-running attacks. The default setting for new pools is turned off, but it can be turned on during pool creation or later through voting.
+
+
+
+
+
+
+2. Time Period 
+This type of circuit breaker limits the total slippage that can be created in the pool during a specific time unit. Such limitation can be useful to limit how much dumping can take place during any time unit, like per a day, per hour or even per minutes or seconds. The default setting for new pools is turned off, but it can be turned on during pool creation or later through voting.
+
+
+
+
+3. Complete Halt 
+This type of circuit breaker is designed for emergency events when LPs want to stop trading in the pool completely. LPs may select this circuit breaker during times of full-blown market panic, in the early days of a new token launch, or during black swan events and run on the bank situations. LPs can set the slippage to zero on either one pair or both. The default setting for new pools is 0% until the fundraising period is over. After injecting liquidity into the pool, this default circuit breaker is removed. It can be turned on by voting.
+
+
+4. Weighted Moving Average 
+This type of circuit breaker triggers when volatility in a pool exceeds or falls below a certain percentage relative to the moving average price (WMA) in that pool can be set by LPs. They can set limits for one or both pairs in the pool. Once the WMA returns to normal levels, trading resumes automatically through smart contracts. LPs have the option to vote on the time interval used to calculate the WMA, allowing them to set intervals such as 15 minutes, 30 minutes, etc. The default interval for WMA Circuit Breaker calculation for new pools is 45 minutes, but this can be altered during pool creation or later through a vote.
+
+
+5. Private / Public Pools
+This type of circuit breaker is designed to avoid rug pulling by bad actors, DEREX exchange allows projects to vote on locking their pool as private or opening the pool to the public. Once a pool is private, only existing LPs are able to continue providing liquidity to the pool. 
+
+
+
+
+
+
+Rug Pull Protection
+LPs have an incentive to vote for a circuit breaker that benefits the entire liquidity pool, as the decision affects both their investments and withdrawals. For example, if the slippage in the pool is 10% per day, it applies to both swap investors and LPs, meaning the LP can redeem no more than 10% liquidity per day. When the Complete Halt Circuit Breaker is activated, LPs are subject to it as well, leading to zero withdrawals. As a result, there is no advantage for either LPs or users.
+
+
+
+
+
+
+Pool forking 
+Traditional DeFi pools lack effective governance and sometimes rely on a DAO voting structure, which can silence minority members or allow them to abuse power over the majority. 
+
+
+DEREX solves these issues with the concept of pool forking, allowing a minority to create a new pool with their own rules if they disagree with the majority's consensus. DEREX prioritizes displaying the pool with higher liquidity to the public while still providing access to the smaller pool through a direct interface.
+Secure Floor
+DEREX has a built-in Secure Floor that eliminates dumping risk for LP investors. 
+Projects launching pools on DEREX must set the token ratio in the pool like in any other DEX. This ratio between the project token and its pair establishes the pool's baseline ratio, which becomes the Secure Floor.
+
+
+If the project token appreciates, LP investors profit, and if it crashes and reaches the baseline ratio, the Secure Floor automatically triggers a complete halt circuit breaker, reducing slippage to 0% and protecting the baseline price from further dumping. This provides a safety net for LP investment in new projects, allowing LPs to participate with no dumping risk.
+Example:
+* Project XYZ launches token on DEREX
+* Creates pool with 2 XYZ tokens to 1 USDT ratio
+* The baseline ratio of 1 XYZ token is equal to $0.5, which also becomes the Secure Floor
+* If the XYZ token appreciates in value and the pool's ratio becomes 1 XYZ token to 1 USDT, LP investors in the pool will benefit from profits
+* However, if the value of the XYZ tokens crashes and reaches back to the baseline ratio of 2 XYZ token to 1 USDT, the Secure Floor will automatically trigger a complete halt circuit breaker
+* This reduces slippage to 0% and prevents further dumping
+* The XYZ token is protected at no less than $0.5 through the Secure Floor model
+
+
+
+
+Secure floor for traders
+The Secure Floor also protects traders who purchase project tokens from the pool, but unlike LPs who have full protection, traders have a graded level of protection that decreases with price appreciation.
+
+
+Example 
+* Baseline ratio set at $0.5 per 1 XYZ token
+* A trader buys tokens at $0.75 per 1 XYZ token
+* The trader has 66.66% protection ($0.5/$0.75)
+
+
+
+
+
+
+
+
+
+
+
+
+Run on the bank protection 
+The Secure Floor and Circuit Breakers together protect against bank run scenarios that can result in severe market volatility.
+
+
+
+
+Dynamic Fees 
+DEREX's fee structure differs from that of other DEXs with fixed fees. Liquidity providers (LPs) can determine their own pool fees based on market demand and the volatility of the token. For instance, a pool of stablecoins may opt for lower fees compared to those for higher risk altcoins.
+The fees are constantly adjusted in real-time through the use of a Weighted Moving Average (WMA) smart contract. When demand is high, the fees will increase and when demand is low, the fees will decrease to the minimum default fee. LPs have the ability to cast a vote and adjust the default fee to any percentage, even 0%.
+
+
+
+
+
+
+
+
+
+
+
+
+Weighted Moving Average (WMA) 
+The Weighted Moving Average (WMA) uses a calculation that gives more significance to recent data and less to older data. It's calculated by multiplying each data point by a weight factor and adding up the products.
+
+
+  
+
+Coefficient 
+The WMA smart contract calculates fees by multiplying the WMA result by a coefficient percentage factor that determines the final fee impact. The default coefficient is 100%, which can be adjusted by voting.
+Example:
+* WMA face value of $1, current token price in the pool is $0.9: minimum baseline fee of 0.05%
+* Token price increases to $1.05 (5% change) from $0.9: fees remain at 0.05%
+* Token price exceeds $1 (WMA price): fees increase up to 5%
+* If the coefficient changes from 100% to 50%: 5% multiplied by 50% factor = final fee of 2.5%
+
+
+
+
+
+
+Front Running  
+Front running attacks often occur when a new token is being listed or when there's a lot of FOMO around a specific token and investors want to buy in as quickly as possible. Bots are programmed to find orders that are willing to pay more (higher slippage) than the current market price for tokens. The bots then increase their gas fees to make sure they place their order first and buy the tokens before others. After the bots execute their order, orders from regular users are processed, allowing the bots to sell the tokens right away, leaving the user with a purchase at the highest possible slippage.
+In contrast to human traders who may be willing to buy or not make gains during the block transfer period, bots need to make profits in a single block period. Humans may believe that the token price will appreciate at a later time, while bots aim for immediate appreciation. 
+Dynamic fees require bots to pay higher fees when they buy tokens that are appreciating due to launches or FOMO, reducing their current profits to a level that is safe for their goal of instant appreciation. This kind of calculation can protect users from front running bots.
+
+
+Avoiding Negative reflection tokens 
+Projects that have a built-in buy/sell tax fee may collect tokens and sell them back to the pool to trade with native tokens (such as ETH or BNB), potentially causing negative impacts on token price and stability.
+DEREX provides a solution with its built-in functionality that converts any new or existing token into a native reflection token with a fixed or adjustable buy/sell tax paid in native tokens like BNB. The tax can be directed to a dividend contract, staking contract, or any desired address.
+
+
+
+
+
+
+Bonds
+DEREX utilizes a bond structure based on the ERC-3475 protocol, designed as a semi-fungible and multi-dimensional framework with sub-categories. Instead of sending LP tokens directly to the liquidity provider's wallet, the liquidity provider holds the bond, which holds the LP tokens. 
+This structure is designed to improve the benefit for the project and liquidity providers since the bond has built-in solutions, such as staking, discounts, vesting, and dumping protection.
+
+
+
+
+
+
+
+
+Built in discount 
+Instead of giving substantial discounts of more than 50% to early investors during a conventional pre-sale without the assurance that they will become liquidity providers, a bond with an incorporated discount can ensure that the funds raised are directly added to the liquidity provider pool
+
+
+The discount is implemented by having the project deposit half the bond value with project tokens, while investors provide the other half with a pairing token such as ETH or USDT. These two pairs are injected into the pool to increase liquidity, and the resulting LP tokens are returned to the bond, allowing the investor to own double the bond value with just a 50% investment.
+
+
+Built in vesting 
+The bond enables projects to tie their discount offers to a vesting period, meaning investors cannot sell the LP tokens until the vesting period has ended.
+
+
+Projects can set bond cliffs, either for a single time period (e.g. bond protection expires after 6 months or a year) or by grading, with smaller distributions over a set time frame (e.g. 10% vested every 30 days).
+
+
+Projects can also create two classes of vesting, one for the principal investment and one for profits, offering early LPs an exit strategy for their principal while keeping profits locked for a longer period.
+
+
+Additionally, projects can set a prepayment penalty rule for breaking the vesting period, which benefits the community by imposing a fine, for example, a 10% fine on the LP's tokens that will be locked in a dead-end address if the vesting period is broken early.
+
+
+Built in staking
+In the next bond structure version, staking rewards will be incorporated for a designated period, eliminating the need for LP token lock-up in external smart contracts to receive APY. Until then, projects can continue using the current farming smart contract, allowing bondholders to farm the bond as they currently do for LP farming.
+
+
+
+
+Built in dumping protection
+The bond protects the pool from LP investors dumping by returning the LP project tokens and pair tokens to the bond when investors sell the LP tokens. The bond then distributes the pair tokens representing investor principal and profit to their wallet, while the remaining project tokens are either returned to the project or burned (per the bond's definition). This protection prevents the traditional DEX issue where LP investors dump project tokens back into the pool to pull out more pair tokens.
+
+
+
+
+
+
+
+
+OTC bonds
+In addition to being in a vesting period, there is also a strong incentive for investors not to sell their LP tokens, as doing so would result in only receiving 50% of the bond value (principal and profits). It is more advantageous for the investor to sell the bond with a discount through a P2P decentralized OTC bonds marketplace on the DEREX exchange, which provides a better outcome for the investors and protects the pool's liquidity.
+
+
+
+
+
+
+Bond buyback program
+Projects can ensure sustained liquidity by participating in the OTC market with a bond buyback offer using the project token. For example, the project may offer 150% of the bond's value paid in project tokens to purchase the bond from investors. To mitigate the risk of dumping, the payouts can be subject to a vesting schedule through a Dumper Shield.
+
+
+Read more about the Dumper Shield.
+
+
+
+
+Initial Bond Offerings
+Projects can raise funds for their pool in a new way through Initial Bond Offerings (IBO), designed specifically for new projects launching pools on the DEREX exchange. 
+The bonds offered investors a 50% discount and a Secure Floor at the baseline launch price.
+
+
+
+
+Deadend for scammers
+The Secure Floor built into bonds allows new projects to attract LP investors in any market condition, removing the need for guesswork on success. For investors, there's no need to assess failure risk through due diligence, as there's no exposure to scams or losses, as they will always receive no less than the minimum amount of pair tokens (such as USDT, ETH) they invested.
+
+
+
+
+Spread without pray 
+Investors can diversify their investments across unlimited projects without worries, thanks to the Secure Floor protection, which offers low entry barriers while still providing potential upside and a starting point at 50% below the baseline. 
+
+
+
+
+
+
+Security regulations
+DEREX bonds carry the risk of being classified as debt securities in some jurisdictions. As a result, the DEREX exchange only supports bonds where all of the funds raised go directly to the pool and are completely controlled by investors, potentially avoiding the classification as securities.
+Many projects face difficulties in obtaining funding from non-accredited investors in countries such as the United States. However, the bond pool with a Secure Floor may meet the criteria of the US Howey test, as the invested funds are not invested in a common enterprise and the project does not have access to those funds. The funds are 100% under the control of liquidity provider investors from beginning to end, with no risks to the pool's behavior. [1]
+
+
+
+
+
+
+Tax regulations 
+Investing in a failed project through bonds does not result in a tax for the investor, as the funds are deposited into bonds similar to a staking contract. If no profits are generated, the original funds are returned like a cancellation order with no sell or buy transaction, avoiding a taxable event.[2] 
+
+
+
+
+Decentralized Index 
+DEREX has created a decentralized index (dIndex) for passive investors, automated liquidity management and yield aggregation funds. 
+
+
+The dINDEX consists of bonds that allocate funds among IBO projects based on pre-determined criteria. Investors can choose to invest in existing dINDEX or create new ones with custom criteria, such as the type of projects, investment amount, vesting period, and more. 
+The dINDEX acts as an open-ended fund, allowing investors to join or withdraw at any time.  All dIndexes are protected by the Secure Floor, reducing the risk of loss in case of project failure.
+
+
+To kick off, DEREX will launch the first dIndex, InDEREX500, which invests in the first 500 IBO projects.
+
+
+
+
+
+
+Government Rights vs Economic Rights 
+dINDEX has two classes of assets: government rights and economic rights. When creating a dINDEX, the creator can opt to retain government rights, similar to a General Partner (GP) in Venture Capital. By retaining government rights, the creator makes ongoing decisions about securing the pools and when to sell the bonds and reclaim profits for the dIndex, keeping economic rights holders passive during the process. Profits are then directly distributed to them.
+If the dINDEX has no GP, both government rights and economic rights are distributed among dINDEX investors, meaning that each investor must vote as a DAO for any action taken by the LP tokens in the pools.
+
+
+
+
+
+
+
+
+New income generator 
+dINDEX creators who hold government rights and make ongoing decisions regarding the management of the pool (such as voting on regulations and security measures and determining when to sell the bonds over the OTC or execute the sale of LP tokens back to the pool) can establish a fixed or percentage-based fee that will be paid from the profits as compensation for their work as fund managers.
+
+
+Because the dINDEX purchases assets that may not be considered securities in some jurisdictions, the creator may not need to be registered as a syndicator or have funds management qualifications to manage the dINDEX 
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+Decentralized SPAC
+DEREX exchange created a dSPAC investment vehicle for quick, passive fundraising. 
+Projects can call matching funds from indexes through an intermediate dSPAC contract which aggregates funds and exchanges them for bonds in the project pool that are distributed back to the indexes in the same transaction.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FEES
+
+
+IBO fees
+
+
+DEREX charges no fees that can be paid from raised funds, as those funds must remain untouched for investors to receive 100% return via Secure Floor. Instead, DEREX charges fees using project tokens, based on the actual fundraising amount. 
+
+
+* For up to 100 BNB raised (equivalent to $10,000), the fee is 0%. 
+* Over 100 BNB raised, the fee is 10%. 
+
+
+The project has the option to decide how DEREX will manage the tokens that are paid as fees. They can either invest the 10% fee to support the project through PDO liquidity creation or establish a Dumper Shield, with the 10% fee being held behind it according to the project's set terms.
+
+
+Read more about Dumper Sheild 
+Read more about PDO 
+dINDEX fee
+DEREX charges investors that utilize the dINDEX structure 10% of the profits.[3] 
+
+
+
+
+dSPAC fee
+At the moment DEREX charges a 0% fee to utilize the dSPACE
+
+
+
+
+
+
+
+
+100% Fee Reimbursement  
+Users of DEREX exchange products are eligible for full gas and fee reimbursement by staking an equal amount of $DRX tokens for a period of one year. Partial reimbursement can also be claimed at any time before the one-year period ends, with the remaining balance accumulating until it can be claimed. 
+
+
+
+
+
+
+Example 
+* Over the course of a year, a user spends $10,000 on swaps and investments through DEREX products, incurring total fees and gas costs of $500
+* Users can claim a full reimbursement by staking $500 worth of $DRX for one year. 
+* After a 6-month period, if the user decides to withdraw their staked $DRX, they will receive $500 in $DRX plus a $250 reimbursement.
+* The user can choose to stake again at any time to claim the remaining $250 reimbursement.
+Tokenomics
+DAO base 
+The DEREX protocol is subject to voting by the $DRX token that acts as a DAO (Decentralized Autonomous Organization) enabling decentralized decision making and management without the need for intermediaries or central authority. The DAO can vote on proposals and make decisions in a trustless and secure environment. 
+
+
+Unlike other projects that rely on centralized voting, the DEREX exchange operates 100% on the blockchain through DAO voting by its $DRX token holders. This ensures that all implementation decisions are made in real time directly by the community and not just the project team.
+
+
+Zero fundraising 
+The DEREX project does not plan on conducting any pre-sale or fundraising for development or team purposes. Instead, the goal is to fully transfer ownership of DEREX to its users and projects that utilize the platform.
+
+
+50% of the total supply of DEREX will be airdropped to projects and according to their usage, while the remaining 50% will be distributed to benefit liquidity and token appreciation.
+
+
+
+
+Digital Royalty Token
+The $DEX tokens are designed to act as Digital Royalty Tokens instruments tied and correlated to the business performance of the DEREX project. 
+The Digital Royalty Token model affects the $DRX price in two ways. First by useing 80% of the overall fees from the project product to buy $DRX from the pool which couse to naturel appreciation of the tokens, and second by placing those purchased tokens in a zero address, effectively "burning" the tokens and reducing the total supply. 
+This process occurs in real-time and helps to increase the value of the remaining $DRX tokens. 
+
+
+Read more about Digital Royalty Tokens 
+
+
+Use of fees breakdown
+The fees generated from $DRX are used as follows: 80% is used to buy $DRX tokens, which increases the value of the token and decreases the total supply. 20% goes to Qwantum Finance Labs as a licensing fee for the $DRX technology and to support the project.
+
+
+
+
+Pre-mint
+The $DRX digital royalty token supply does not include a founders' allocation or any reserves for the team or development. Instead, the supply is focused solely on adding value and liquidity to the ecosystem through value-added structures.
+
+
+
+
+
+
+Total pre-mint:                                 10,000,000,000
+Breakdown allocation
+* Airdrop based usage                        5,000,000,000
+* Pre-sale via SAFT                        0
+* Public sale via IBO                        100,000,000                 (100% liquidity pool)
+* Post-launch via LP insure                25,000,000                  (100% liquidity pool)
+* ScalePad via Short term PDO         1,332,500,000               (50% dumper shield + 50% liquidity pool)
+* Scalepad via Long term PDO         1,332,500,000                (50% dumper shield + 50% liquidity pool)
+* CEX Market Making                        10,000,000
+* Self custody staking                         200,000,000
+* Router                                        2,000,000,000
+* Treasury                                0
+* Team and founders                        0    
+
+
+
+
+
+
+
+
+
+
+
+
+Token price
+Token name DRX
+Baseline Public sale via IBO:                $0.01
+Listing price:                                 $0.02
+
+
+
+
+
+
+
+
+Post minting
+After the initial minting, $DRX tokens can be minted based on the equal value being added to the ecosystem. This minting is intended to encourage the use of the platform through the reimbursement smart contract and the Router, which helps to increase liquidity and reduce pressure on sales.
+
+
+Future split
+Since $DRX has the potential to grow in value significantly, it may become difficult for some investors to justify buying them at their current face value. In this case, the DAO may decide to split the tokens, giving users an equal number of $DRX tokens with a face value of $0.01. This would not affect the total value of the investors' holdings, but the number of tokens in their wallets would increase proportionally to reflect the split. This split is meant to make it easier for investors to buy $DRX and participate in the ecosystem.
+
+
+Example
+1. An investor holds 100 $DRX with a face value of $1000. The investor’s total holdings equal $100,000 (100 x $1,000).
+2. DAO announces a split
+3. $DRX splits and distributes, to NFTmx holders, $DRX proportionate to the new price.
+4. The new price/face value is $0.01. The investor now holds 10,000,000 $DRX, still valued at $100,000 (10,000,000 x $0.01).
+ 
+Launch plan 
+Presale via SAFT
+No Presale or Early Sale for DEREX Project
+
+
+Public sale via IBO
+DEREX exchange is using its Initial Bond Offering (IBO) which is a new fundraising model for the liquidity pool. This offering allows investors to purchase tokens at a 50% discount and includes a feature called Secure Floor, which protects against loss in the event of dumping or a "run on the bank" scenario. The IBO is only available to public sale investors who participate in the initial stage when the liquidity pool is not yet open for trading.
+Read more about IBO 
+Post launch plan
+LP insurance
+DEREX exchange is using Qwantum Finance Labs' LP Insure technology to encourage new liquidity providers to invest in liquidity pools on decentralized exchanges (DEXs) at any time, without the risk of losing their investment due to dumping or impermanent loss. The LP Insure technology allows LPs to deploy funds that are split into two. Half of the funds are used to purchase $DRX tokens directly from the project at the current market price, while the other half is used to create an LP position in the pool. 
+
+
+The funds received from purchasing tokens directly from the project are not paid to the project or team, but rather are locked in a smart contract vault as insurance to protect the LP from any potential losses. When the LP decides to exit the pool, the insurance will reimburse them for any losses up to 100%. The leftover insurance funds will then be used to purchase $DRX tokens from the pool and burn them, which helps to increase the value of the remaining tokens and reduce the overall supply. This process ensures that LPs can invest in liquidity pools without worrying about losing their investment due to market dumping.
+Read more about LP insure
+ScalePad via PDO
+DEREX Exchange is using Qwantum Finance Labs' PDO (Post Dex Offering) new technology which allows DEREX Exchange to raise ongoing funds for the project through the sale of tokens to the community[4]. 100% of the funds raised from the DEREX Exchange will automatically benefit the token holders, as 50% will beautomatically increase the token value and increase the liquidity pool, and 50% will be automatically sent to the Gateway on the Dumper Shield to buyout early investors from PDO, no raising funds will go to the development team or founders.
+There are two different types of PDOs available: short term and long term. The short term PDO has a starting price of $0.02 and follows the real-time market price. It also offers a 405.56% APY bonus and has a lock period of 90 days for staked tokens. The long term PDO also has a starting price of $0.02 and follows the real-time market price, but it offers a higher APY bonus of 608.34% and has a longer lock period of 180 days for staked tokens.
+
+
+PDO terms for Short term
+Price: Starts at $0.02 and follows the real time market price[8]
+Rewards: 405.56% APY Bonus
+Lock period: 90 days locked staking
+
+
+ 
+PDO terms for Long term
+Price: Starts at $0.02 and follows real time market price
+Rewards: 608.34% APY Bonus
+Lock period: 180 days locked staking
+ 
+Fundraising Allocation
+●     50% of PDO fundraising goes to pools
+●     50% of the PDO fundraising goes to buyback early investors behind the dumper shield
+ 
+Dumper Shield
+The Dumper Shield, created by Qwantum Finance Labs, is the world's first decentralized OTC designed as an exchange for vesting tokens. It is utilized by DEREX Exchange to prevent token holders who receive tokens at a discounted price from selling them on the market at the reduced value, which can harm the value of the tokens for other holders
+The Dumper Shield provides a way for discounted token holders to sell their tokens without negatively impacting the market value, through the use of a Gateway that regulates the amount of discounted tokens that can be sold. The Gateway only allows a limited number of discounted tokens to be sold, ensuring that the token price is not negatively impacted by more than 50% of the previous day's appreciation. This helps to stabilize the value of the tokens and provides daily liquidity for holders who are behind the Dumper Shield. In addition, the Dumper Shield includes a decentralized over-the-counter (OTC) solution for token holders who want to sell their tokens below the market's face value. OTC transactions do not affect the value of the tokens on exchanges or in liquidity pools, and new buyers from the OTC are also added to the Dumper Shield. 
+         Read more about the Dumper Shield 
+Self custody staking
+Self-custody staking is a way for $DRX token holders to earn additional tokens just by holding the tokens in their own wallet or in a self-custody vault like behind the Dumper Shield. These staking rewards are paid out at regular intervals (determined by the chain block time, which is approximately a few seconds) simply for holding the tokens. 
+The initial annual percentage yield (APY) for staking rewards is ~10%, but this rate can be changed by a vote of the $DRX DAO (decentralized autonomous organization). It's important to note that any $DRX tokens sent to the self-custody staking contract (which is 0x0000000000000000000000000000000000000001 address) are considered burned and cannot be recovered for trading, even through voting, without the self-custody staking smart contract. This incentivizes users to hold their $DRX in a secure and easily accessible location, such as their own wallet or a self-custody vault.[5]
+
+
+ROI Booster 
+The ROI booster allows bond pool and LP holders to get extra rewards and airdrops from liquidity pool creators or from new projects that want to introduce their tokens to strong LP investors via an airdrop. The ROI Booster welcomes and rewards all LP holders, even those that have LPs belonging to external pools on another DEX like Uniswap or Pancakeswap. 
+
+
+Bonds pool and LP holders can select 3 options to boost ROI.  
+
+
+Option 1  -  Extra APY
+Bond pool and LP holders enjoy extra $DRX rewards. If the LP tokens belong to an external pool (such as Uniswap or Pancakeswap) those LP holders receive exactly the same APY with exactly the same token provided by the original DEX plus extra APY with $DRX
+
+
+Option 2  -  Relocate Liquidity to DEREX        
+LPs can relocate external DEX liquidity into DEREX exchange and benefit from a much 
+higher APY. than the current APY they are getting. In addition, if secure floor is added to the pool, LPs enjoy a protected baseline price against the current token market value
+
+
+Option 3 - Swap your LP
+Option 3 offers the highest rewards of all the options presented. Swap your LP on DEREX or other DEX pools in exchange for discounted $DRX. Due to the fact that the offer includes very deep discounts (depending on the type of the pool), to avoid a risk of dumping, the $DRX claims to the Dumper shield.
+Trading reward
+As part of the go to market DEREX exchange strategy is to incentivize traders with dVoucher rewards that are subject to their investment amount. The dVocuher will allow users at any time and at no cost, to cash out at the dVocuher and claim any token in the Qwantum finance labs ecosystem with the same 1:1 face value.
+Read about dVoucher 
+Scalability
+The DEREX exchange project is designed to scale to all Ethereum Virtual Machine (EVM)-based blockchains, including layer 2 scaling solutions. Additionally, if there is enough demand for it, the DEREX exchange team is open to adapting the code to fit non-EVM-based chains such as the Lightning Network for Bitcoin, Cosmos and others.
+
+
+Scarcity
+DEREX exchange is created with a limited supply of tokens available for trading. Tokens from the public sale, IBO, and PDO will be locked for a minimum of 90 days or protected behind the Dumper Shield for an additional 365 days, making them unable to be freely traded during that time. This helps to generate scarcity of the tokens, potentially increasing their value.
+
+
+
+
+About Qwantum Finance Labs
+Qwantum Finance Labs is a DeFi ecosystem powered by decentralized protocols designed to create an efficient financial system based on quantum finance methods. These methods aim to reduce investment risk and increase liquidity for illiquid and risky assets.
+The Qwantum finance labs ecosystem develops innovative solutions such as a decentralized regulation exchange with circuit breakers, Initial Bond Offerings with principal protection, a decentralized index and decentralized SPAC, liquidity protection via reverse market making for Metaverse and NFTs, a new fundraising model for existing projects with investment protection, decentralized dumping insurance for liquidity providers on DEXs, a dumper shield for vesting tokens, among other financial instruments. These developments position Qwantum Finance Labs at the forefront of the future of finance.
+Liquidity Router
+A Liquidity Router is a smart contract that enables token holders to transfer their tokens from one project within the Qwantum finance Labs ecosystem to another, at a 1:1 $ face value. This allows holders of tokens with limited liquidity on their current project to move them to more liquid projects, reducing the risk of harm to both the project and the holder in the event of an exit. Additionally, as many startups have a high failure rate, it's likely that not all Qwantum finance Labs projects will be successful. The Liquidity Route allows holders to recover some of their loss by moving their tokens to a more successful project. The router works by "burning" the original token and minting a new one with the same value, which is placed under a Dumper Shield as a secondary priority to the "original" tokens on the new project. This means that tokens that were bought directly on a project have higher priority and are engaged with liquidity, while transferred tokens have lower priority.
+ 
+Licensing
+Qwantum Finance Labs' primary market strategy is a B2B2C model, where potential partners can apply for a white-label license to enjoy the benefits of fees and custom branding. This approach reduces the threat of copycat projects and allows the company to focus on end-users without excessive time and budget investment.
+Two Types of Licenses are Available
+Licenses are available for both the DEREX exchange and the Initial Bond Offering platform. License holders have the opportunity to charge fees on top of the reimbursed fees that DEREX charges, while IBO license holders receive a share of 50% of the token fees collected from IBO projects and dINDEX on the DEREX exchange.
+
+
+
+
+Example 
+
+
+
+
+* Project ABC launches an IBO of 1M tokens to raise $100,000 for the liquidity pool.
+* The ABC token's baseline face value is now $0.1.
+* The DEREX exchange is rewarded with 10% (equal to 100,000 ABC tokens) that convert into LP tokens.
+* Now since project growth potential varies, with some remaining low, others growing 1-5X, and a few reaching 5-50X multiples. Rare unicorns may even reach thousand-fold multiples. Predicting outcomes is difficult. But If a ground floor investment of 100,000 ABC tokens worth $10K, with a 10x assumption the value of those tokens can be worth $100,000
+* Potential to reach $50K if the licensee receives 50% of fees
+* Further growth to over $100K per project is possible with dINDEX utilization
+
+
+
+
+
+
+________________
+
+
+1]  This document does not make any tax warranty claims. It is advisable for those reading to seek advice from a professional legal or accounting expert.
+2] All fees are subject to adjustment through DAO voting.
+3]   When the value of $DRX goes up or down, the Fixed sale offers $DRX at the current value.
+4]  Users can only enjoy self-custody staking when $DRX tokens are not staking in other staking contracts.
+5]  All new technologies carry risks that may result in loss. The risk-free theory is not legally binding or a guarantee of future success.
+
+
+
+
+________________
+[1] This document does not make any legal advice. It is advisable for those reading to seek advice from a professional legal expert.
+[2] This document does not make any tax warranty claims. It is advisable for those reading to seek advice from a professional accounting expert.
+[3]All fees are subject to adjustment through DAO voting.
+
+
+
+
+[4]  When the value of $DRX goes up or down, the Fixed sale offers $DRX at the current value.
+
+
+[5] Users can only enjoy self-custody staking when NFTmx tokens are not staking in other staking contracts.
