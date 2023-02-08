@@ -1,0 +1,454 @@
+﻿Post Dex Offering 
+New ScalePad model to boost existing projects after launchpad
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+How PDOs Work
+PDO Fundraising Distribution
+Project Price Benefit
+Investor Protection
+Secure Future with PDO: Bear Market Fundraising Solution
+Extra Incentives
+Use Case
+FOMO Trigger
+Front running attack protection
+Dumper Shield
+Transfer
+Decentralized OTC
+Gateway
+Gateway SP Refund
+Gas Consideration
+Dumper Shield plus PDO
+DAO Based
+Dumper Shield Positions
+First position vs second position
+Dumper Shield Position Examples
+Types of PDOs
+Fixed market price (no upward slippage)
+Dutch Auction
+PDO Participation
+Reverse KYC / AML / Accreditation
+Solution for US investors
+PDO Fees
+Fee Breakdown
+PDO License
+PDO Tokenomics
+Supply
+PDO Price
+Dumper Shield
+Minting
+100% Fee Reimbursement
+Flexible 10% APY Staking
+Tx Tax Fee
+Private Pre-Sale
+Private Pre-Sale terms
+Public Reverse Pre-Sale
+Public Reverse Pre-Sale terms
+Extra Staking Reward through Secure Future
+Actions available
+PDOs
+PDO terms
+Short term
+Long term
+Fundraising Allocation
+Scarcity
+New Communities
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+Current Market overview 
+In the early days of 2017, projects were able to raise large sums of money, sometimes in the hundreds of millions, based solely on a whitepaper. However, by 2019, after investors had been scammed by fake projects with promising whitepapers, the demand for projects changed. Investors started to demand to see a working testnet product, and as a result, the amount raised by projects dropped to tens of millions. By 2021, the average amount raised by projects had decreased further to just millions, as investors were cautious of high dumping by large whale investors and demanded projects having a low market cap valuation that had room for appreciation and more diversified and limited investment amount per holder.
+
+
+Currently, the market is familiar with the concept of Initial DEX Offerings (IDOs) as a way for new projects to secure seed funding and launch on decentralized exchanges (DEXs) such as Uniswap and PancakeSwap. However, many projects that raised funds through a presale can't rely on the liquidity provided by users, since this liquidity is not sustainable when those liquidity providers become dumpers. This forces the project to allocate a significant portion of that funding towards liquidity pools on these DEXs, leaving a smaller budget for development. This often results in projects that are copycat projects with only small upgrades and changes, and development times of just a few weeks to 6 months.
+
+
+Some of these projects that raised a small amount during seed rounds and were able to show traction with performance, income stream, or user base, are forced to conduct follow-up rounds as private rounds. This means that projects welcome venture capitalists (VCs) in exchange for undisclosed incentives over the price in the secondary market, which can even grant those VCs the ability to become dumpers and harm early holders.
+
+
+On the other hand, the majority of projects that are unable to conduct subsequent fundraising events are sometimes forced to withdraw funds from liquidity pools, a move commonly referred to as a "rug pull." This can also include selling tokens on secondary markets, which can lead to panic and massive dumping among investors. Studies have shown that 92% of blockchain projects have failed, with an average lifespan of 1.22 years [1], leaving token holders with no redemption.
+
+
+
+
+Quantum problems
+Unlike traditional startups that can raise funds through multiple rounds of funding (pre-seed, A, B, etc.) as they progress in development, decentralized crypto projects are more limited in their ability to raise funds in this way. Once decentralized crypto projects launch their tokens and they start trading, they are unable to conduct another public sale and offer discounts to new investors, as this can cause panic and decrease the token's value in the market. This creates a quantum problem for projects as they are unable to continue raise funds from the public but on the other hand, it would be safer and more beneficial for the project and current token holders if the project could continue raising funds from the public rather than from private VC rounds.
+A Prediction 
+Based on extrapolation of historical trends, it is reasonable to assume that during the next bull market, investors will treat projects more like they treat the startup industry, with an average raise of hundreds of thousands. Additionally, investors will likely demand to see a working product before investing.
+
+
+Those projects that will raise millions and above will be able to justify such raises based on the track record and experience of the founders or the success of the project with its user base or income stream.
+
+
+If nothing addresses those barriers, the industry innovation may slow down and we'll start to see a lot of look-alike projects with no differentiations. The failure rate will likely increase, as many projects will not be able to gain traction based on a small presale, with the majority of funds allocated to liquidity pools.
+
+
+
+
+Barriers to be addressed
+
+
+Follow up fundraising issue 
+In the current market structure, crypto projects are limited to follow-up fundraising via private rounds. This is because usually, selling tokens requires incentives such as offering a discount under the market price. The problem is that some new investors that join a project as follow-up rounds may demand better terms and access to liquidity before the current token holders, which can lead to token price dumping or crashing.
+
+
+Sustainable liquidity issue 
+Many projects solicit users to park their funds as liquidity in a pool in exchange for staking rewards. However, these liquidity providers (LP) are not loyal to the project and often cash out when the market goes down or move their liquidity into new projects that offer better rewards. This leaves the project with no sustainable liquidity and high slippage.
+
+
+Slippage issue 
+When users engage with a decentralized exchange (DEX) to buy or sell tokens, slippage applies due to the structure of the liquidity pools. This means that the buyer or seller never receives the market price of the token, but instead receives an average price based on the slippage,  This can result in a loss of buy pressure and scaling the project adoption and success 
+
+
+Price appreciation issue 
+When projects have low liquidity pools, either because they are new projects or new to different blockchains, they may be at risk of front-running attacks. In a front-running attack, an attacker uses a higher transaction fee to ensure that their own transaction is processed before any other transaction. This allows the attacker to profit from the price change by executing their own trade before the original trade is processed. Low slippage and high price impact can create an incentive for front-running attacks, as the attacker can still take advantage of the price change even if the slippage is low. This means that every time a front-running attack takes place, the token price does not benefit from its full potential appreciation, which can be a problem for the project's scaling.
+
+
+
+
+Post Dex Offering 
+The PDO (Post Dex Offerings) is a revolutionary solution that combines fundraising, strategic staking, and liquidity mining in a fully decentralized suite of products. It is designed to serve existing projects in both bullish and bearish markets, making it the world's first scale-pad of its kind.
+
+
+How PDO Work
+PDO is a layer that works on top of existing decentralized exchanges (DEXs) and serves existing projects that already have some active liquidity pools on any Ethereum Virtual Machine (EVM) chain, even if it's a brand new liquidity pool on a new DEX. 
+
+
+The PDO helps projects to sell their token reserve or team tokens in order to increase liquidity, raise follow-up funds for the project, and at the same time, increase the token's market value and total value locked for the community.
+
+
+PDO is driving the token price in real-time from the pool on the DEX that it's trading on. This means that unlike initial DEX offerings (IDOs) that usually have a fixed sale price with a limited period of time, the PDO has a dynamic price that can run all year long while the price never goes above or below the current market value, even when the market is volatile.
+Follow up fundraising solution 
+PDO allows projects to claim the proceeds from token sales as a follow-up fundraising solution. This means that the project can choose how much of the funds will be split between the team and the liquidity pools. The team can claim 0% to 100% of the token sale proceeds as long as the project's liquidity pool maintains no less than 200% (2:1 ratio) of funds over the fundraising to avoid scenarios where buyers buy into a token with insufficient liquidity in the pool. This fundraising can run every day all year long for an unlimited time. This can allow projects to raise funds on a daily basis as the project continues to scale instead of raising unrealistic funds from the beginning, with unrealistic market cap valuations.
+
+
+Sustainable liquidity solution 
+When a project creates a PDO with the intention of increasing and improving the token liquidity pool, the proceeds from the sale will be split 50%/50%. Half of the proceeds will be used to buy the token from the liquidity pool, while the other half will be used to pair with those new tokens and push them back into the pool as liquidity provider (LP) tokens. These LP tokens will be owned by the project as sustainable liquidity and will be available for the project to claim 30 days after the liquidity has been created or 30 days after the last staking period ends, whichever is later.
+
+
+
+
+Slippage solution 
+When buyers purchase tokens from the PDO, they are buying directly from the project and not through the pool like with AMM models. This means that buyers can spend any amount of money at a fixed price for all the tokens with zero slippage.
+
+
+This solution effectively highjacking buying power from the DEX to the PDO, as it doesn't make sense for a buyer to interact with the DEX directly, especially if the project is also offering zero slippage tokens with a built-in staking APY.
+
+
+Price appreciation solution 
+Since the price of the token in the PDO is driven in real-time from the pool it's trading on, every time a buyer purchases a token from the PDO or directly from the pool, the price of the token in the pool increases and is displayed on the PDO as the current token price. So, when the second buyer makes a purchase, the price keeps increasing.
+To ensure that the token price continues to increase at its full potential, the PDO contract has a built-in anomaly detection feature that checks the average token market price in the pool over a certain period (for example, over 5 minutes). If the token price increases more than 1% over that average, it limits the slippage to 1%. This means that the PDO may delay pushing funds to the pool until unusual behavior is no longer detected to avoid front-running attacks.
+This solution is similar to what major credit card companies employ. Credit card companies automatically block cards if they have been used in a different country or with seemingly irregular behavior. This means there is no incentive for bots to abuse pool deposits that associated with PDO.
+
+
+
+
+
+
+Whale holders Solution
+Team members, advisors, and even whale holders with large token holdings, who used to sell their tokens on the secondary market, can now use the PDO to sell their tokens, with or without APY incentives. This benefits buyers by providing a slippage-free offer, while also allowing the seller to access funds without negatively impacting the token's price in the secondary market.
+
+
+
+
+Types of PDOs
+Fixed sale 
+A fixed sale allows investors to purchase tokens immediately at the current market price. By deploying funds, all tokens will be sold at the same price with zero slippage.
+Dutch Auction
+
+
+A Dutch auction allows the market to determine the offering price, providing protection against price manipulation. At the end of the auction, funds and tokens are distributed only after verifying that the total investment does not exceed the total token supply's face value. This ensures that users do not pay more than the token's market price. Additionally, users may also benefit from a potential discount as projects must sell the entire token supply once the minimum fundraising goal (soft cap) is reached and the auction period ends.
+
+
+
+
+
+
+Example
+
+
+* The XYZ project is launching a PDO via a Dutch auction.
+* A total token supply of 20 million is being deposited.
+* The current market price of the XYZ token is $0.10.
+* The project sets a soft cap of $1 million and a hard cap based on the actual token price (which currently is $2 million).
+* During the auction period, interested investors deploy $1.2 million into the PDO smart contract, which holds the funds pending.
+* As the auction progresses, the token price in the market fluctuates and drops to $0.08.
+* This means that the total 20 million tokens are worth $1.6 million.
+* Once the auction period ends and since the soft cap is reached, the PDO smart contract distributes all 20 million tokens worth $1.6 million to the buyers in exchange for the $1.2 million investment.
+* This results in a 25% discount for the investors compared to the current market price.
+* However, if the market price of XYZ drops to $0.06, meaning the 20 million tokens are worth $1.2 million, the auction ends immediately as it reached the hard cap.
+* In another scenario, if the total investment is less than the soft cap ($1 million), regardless of the market price fluctuation, the auction ends by refunding all investors the funds back and canceling the auction.
+
+
+EVM
+The PDO is a layer that operates on top of any decentralized exchange (DEX) that runs on an Ethereum Virtual Machine (EVM) blockchain, including popular platforms such as Uniswap, SushiSwap, PancakeSwap, and even newly created DEXs. [2] 
+
+
+
+
+
+
+
+
+Bear Market leverage 
+Typically, when the market or the future of a project is uncertain, investors tend to direct their funds into more conservative 3rd party vehicles such as passive lending and staking protocols like Venus, Compound, Yearn Finance, Curve, etc.
+The PDO, however, includes a Secure Future layer that work around this concern by offering a quantum solution to stake the funds with these protocols while simultaneously leveraging them to invest in the PDO. This allows the investors to make informed decisions about which positions they want to keep in the future, after the market becomes clearer. 
+
+
+This multi-position solution makes the Secure Future the world's first tool that allows investors to invest without investing.
+
+
+Secure Future
+The Secure Future is an intermediate smart contract that allows investors to push funds to 3rd party staking protocols while also holding the APY offered by the project's PDO. The Secure Future holds both positions until the PDO period is over. During that time, investors can either claim or cancel the Secure Future.
+If the investor chooses to cancel the Secure Future, the smart contract will release the held APY back to the PDO, and will send the exact amount and type of wrap tokens created by the 3rd party staking protocol (such as cETH, vBNB etc) to the investor's wallet, which would be equivalent to the scenario where the investor stakes directly with those protocols.[3] 
+If the investor chooses to claim the Secure Future, the smart contract will sell the wrap tokens back to the 3rd party and use the proceeds to push into the PDO based on the current token price. The investor will also benefit from the locked APY that was held by the Secure Future during the time of investment. If there are any rewards from the 3rd party for the staking period between the time of investment and the time of claiming the Secure Future, those rewards will be used to buy tokens from the pool and burn them into a zero address, benefiting the token community holders.
+The Secure Future allows investors to secure the future of any project's success or miss opportunity without actually being exposed to any downside. 
+
+
+Example
+
+
+* An investor is interested in a project XYZ that is running a PDO for 365 days with a current token price of $0.1 and a 100% APY incentive, but unsure about its future success
+* Compound is offering low-risk staking with a 10% APY
+* Instead of choosing between taking a risk and investing in the project or staking with Compound, the investor can use the Secure Future smart contract to have both
+* The investor pushes $10,000 to the Secure Future, which acts as an intermediate smart contract and holds 100,000 tokens offered by the project XYZ and at the same time, it will deposit the $10,000 on behalf of the investor in Compound
+* After 364 days the project's token price increases by 10x and trades on the secondary market for $1, the investor can surrender their rights on Compound and claim the Secure Future for an 11,000% ROI
+* In another scenario, if the project token price drops by 50% and trades on the secondary market for $0.05, the investor can still surrender their rights on Compound and claim the Secure Future for a 150% ROI
+* In both cases, it makes sense for the investor to surrender its rights on Compound's 10% APY and claim the Secure Future reward which is worth 150% or 11,000% ROI. 
+* Anytime an investor surrenders their rights to Compound, the PDO smart contract will use the APY rewards to buy XYZ tokens from the pool and burn them into a zero address, benefiting the XYZ token community holders.
+
+
+
+
+
+
+FOMO Trigger
+It is possible for the general public to view the amount of funds in the Secure Future smart contract, which could lead to speculation that the token price may rise once the funds are deployed to the pool. This can lead to a natural Fear of Missing Out (FOMO) among the public to purchase the token before the pending Secure Futures are executed.
+
+
+Reverse KYC 
+Even though a project may already exist, it may still be required to comply with regulations in certain jurisdictions. This means that when a public sale takes place, a Know Your Customer (KYC) and Anti-Money Laundering (AML) process must be implemented to prevent access from unauthorized buyers. However, the project can also implement a new solution called Reverse KYC, which is more user-friendly for investors without compromising legal compliance. [5]
+
+
+Reverse KYC allows investors who have not yet completed a KYC to invest immediately via the PDO, but all investments are pending and locked indefinitely until the investor fully completes the KYC/AML and potentially accreditation process if needed.
+
+
+Investors can also opt to follow the traditional KYC/AML process in order to gain access to the whitelist before investing.
+
+
+
+
+Solution for US investors
+The SEC regulation in the US is based on the Howey test and therefore even tokens that are a utility in other countries may still be considered a security in the US. The PDO allows projects to comply with US regulations by selling tokens where 100% of the funds go to the liquidity pool and the LP tokens are burned or controlled by the DAO.
+USE OF PROCEEDS 
+Projects can elect to split the PDO proceeds between the liquidity pool and or the team and or to buyout early investors behind the Dumper shield
+Read more about the Dumper shield 
+PDO Fees
+PDO charges a 2.5% fee directly from the public but reimburses the public 100% with PDO tokens.
+An additional 2.5% success fee is charged from the project’s fundraising
+Secure Future charges a 2.5% fee on APY earned through if Secure Future is executed in lieu of investment.
+
+
+Use of fees breakdown
+The fees generated from PDO finance are used as follows: 80% is used to buy PDO tokens, which increases the value of the token and decreases the total supply. 20% goes to Qwantum Finance Labs as a licensing fee for the PDO finance technology and to support the project.
+
+
+PDO License
+Qwantum Finance Labs is an infrastructure company that adopts a B2B2C business model as its main go-to-market strategy. Under this model, potential partners can apply for white-label licensing to benefit from revenue sharing and their own branding. This approach aims to prevent competition from copycat players and allows Qwantum Finance Labs to focus on serving its partners while they serve their end-users.
+When a project raises funds via PDO on a licensed platform, an additional 2.5% success fee will be charged and allocated to the licensee. In addition to the 2.5% fee, the licensee can also set any additional fees as a percentage of fixed or hybrid amounts.
+The licensee's white-label platform can be set as public or private. In the case of a public platform, all PDOs on the licensee platform will be displayed on other public licensee platforms and vice versa. In the case of a private platform, the licensee will act as a closed club and the PDOs on that platform will remain exclusive to that platform, and no other PDOs will appear on it.
+
+
+Example 
+
+
+* XYZ has applied for a white-label license with PDO finance to use the PDO scalepad under its own branding and design
+* When a project raises $1,000,000 via PDO on XYZ's scalepad, PDO finance charges an additional 2.5% success fee ($25,000) to be allocated to XYZ as the licensee
+* XYZ scalepad can also set additional fees as a percentage of fixed or hybrid amounts (e.g. 1% fee on each transaction, resulting in an additional $10,000 fee)
+PDO Tokenomics
+Digital Royalty Token
+The PDO tokens are designed to act as digital royalty tokens (DRT) instrument tied and correlated to the business performance of the PDO finance project. To achieve this, the smart contract uses 80% of the overall fees from the project to buy PDO digital royalty tokens from the market and place them in a zero address, effectively "burning" the tokens and reducing the total supply. This process occurs in real-time and helps to increase the value of the remaining PDO digital royalty tokens. 
+Digital Royalty Token vs simple tokens
+Digital Royalty Tokens (DRT ) are different from regular tokens in that they have an underlying value that is derived from the income stream of a project. This means that the value of DRT tokens is not solely based on speculation, like regular tokens often are. Instead, the value of DRT tokens is based on the real-time traction and success of the project they represent.
+As a result, DRT tokens may be more resistant to market downturns than regular tokens. Even when the market is crashing and the value of other tokens based on speculation is decreasing, DRT tokens may still hold value because they have a potential return on investment based on their proven income stream. Buyers may be attracted to DRT tokens in a down market because they see the potential for the value of the token to increase based on the project's performance.
+
+
+Pre-mint
+The PDO digital royalty token supply does not include a founders' allocation or any reserves for the team or development. Instead, the supply is focused solely on adding value and liquidity to the ecosystem through value-added structures.
+
+
+Total pre-mint:                                 3,843,540,000
+Breakdown allocation
+* Pre-sale via SAFT                        605,876,712
+* Public sale via IBO                        150,000,000
+* Post-launch via LP insure                25,000,000            (Uniswap, sushiswap, Pancakeswap, etc.)
+* ScalePad via Short term PDO         1,138,227,644       
+* Scalepad via Long term PDO          1,138,227,644
+* CEX Market Making                        2,500,000
+* Rewards                                15,000,000
+* Router                                        768,708,000
+* Treasury                                0
+* Team and founders                        0                                
+Post minting
+After the initial minting, PDO tokens can be minted based on equal value being added to the ecosystem. This minting is intended to encourage use of the platform through the reimbursement smart contract and the Router, which helps to increase liquidity and reduce pressure on sales.
+PDO price
+Baseline Pre-sale via SAFT:                 $0.005 
+Baseline Public sale via IBO:                $0.01
+Listing price:                                 $0.02
+
+
+Future split
+Since PDO has the potential to grow in value significantly, it may become difficult for some investors to justify buying them at their future face value. In this case, PDO.finance may decide to split the tokens, giving users an equal number of PDO tokens with a face value of $0.01. This would not affect the total value of the investors' holdings, but the number of tokens in their wallet would increase proportionally to reflect the split. This split is meant to make it easier for investors to buy PDO and participate in the ecosystem.[4]
+
+
+Example
+1. An investor holds 100 PDO with a face value of $1000. The investors total holdings equals $100,000 (100 x $1,000).
+2. PDO finance announces a split
+3. PDO splits and distributes, to PDO holders, PDO proportionate to the new price.
+4. The new price/face value is $0.01. The investor now holds 10,000,000 PDO , still valued at $100,000 (10,000,000 x $0.01).
+ 
+
+
+Launch plan
+Presale via SAFT
+The presale of PDO tokens is being conducted through a Simple Agreement for Future Tokens (SAFT) structure, which is compliant with restrictions under US SEC Regulation D 506 (b) and the Securities Act of 1933. This round will be closed to the public and only available to accredited investors. If there is any remaining supply after the presale, it will be added to the post-launch plan to benefit liquidity pools and token holders.
+
+
+Public sale via IBO
+PDO.finance is using Qwantum Finance Labs' The Initial Bond Offering (IBO) which is a new fundraising model that takes place on the decentralized exchange (DEREX). This offering allows investors to purchase tokens at a 50% discount and includes a feature called Secure Floor, which protects against loss in the event of dumping or a "run on the bank" scenario. The IBO is only available to public sale investors who participate in the initial stage when the liquidity pool is not yet open for trading.
+Read more about IBO
+ 
+Post launch plan
+LP insurance
+PDO.finance is using Qwantum Finance Labs' LP Insure technology to encourage new liquidity providers to invest in liquidity pools on decentralized exchanges (DEXs) at any time, without the risk of losing their investment due to dumping or impermanent loss. The LP Insure technology allows LPs to deploy funds that are split into two. Half of the funds are used to purchase PDO tokens directly from the project at the current market price, while the other half is used to create an LP position in the pool. 
+
+
+The funds received from purchasing PDO tokens directly from the project are not paid to the project or team, but rather are locked in a smart contract vault as insurance to protect the LP from any potential losses. When the LP decides to exit the pool, the insurance will reimburse them for any losses up to 100%. The leftover insurance funds will then be used to purchase PDO tokens from the pool and burn them, which helps to increase the value of the remaining tokens and reduce the overall supply. This process ensures that LPs can invest in liquidity pools without worrying about losing their investment due to dumping.
+Read more about LP insure
+ScalePad via PDO
+PDO.finance will open PDO pools for the PDO tokens to raise an ongoing funds for the project through the sale of tokens to the community. 100% of the funds raised from the PDO will automatically benefit the token holders, as 50% will be automatically increase the token value and increase the liquidity pool, and 50% will be automatically sent to the Gateway on the Dumper Shield to buyout presale investors, no raising funds will go to the development team or founders.
+There are two different types of PDOs available: short term and long term. The short term PDO has a starting price of $0.02 and follows the real-time market price. It also offers a 413.50% APY bonus and has a lock period of 90 days for staked tokens. The long term PDO also has a starting price of $0.02 and follows the real-time market price, but it offers a higher APY bonus of 827.23% and has a longer lock period of 180 days for staked tokens.
+
+
+
+
+PDO terms for Short term
+Price: Starts at $0.02 and follows the real time market price[8]
+Rewards: 413.50 APY Bonus
+Lock period: 90 days locked staking
+
+
+ 
+PDO terms for Long term
+Price: Starts at $0.02 and follows real time market price
+Rewards: 827.23% APY Bonus
+Lock period: 180 days locked staking
+ 
+Fundraising Allocation
+●     50% of PDO fundraising goes to pools
+●     50% of the PDO fundraising goes to buyback early investors behind the dumper shield
+ 
+Dumper Shield
+The Dumper Shield is a technology developed by Qwantum Finance Labs that is used by PDO.finance to prevent token holders who receive tokens at a discount from selling them on the market at a discounted price, which can negatively impact the value of the tokens for other holders. The Dumper Shield provides a way for discounted token holders to sell their tokens without negatively impacting the market value, through the use of a Gateway that regulates the amount of discounted tokens that can be sold. The Gateway only allows a limited number of discounted tokens to be sold, ensuring that the token price is not negatively impacted by more than 50% of the previous day's appreciation. This helps to stabilize the value of the tokens and provide daily liquidity for holders who are behind the Dumper Shield. In addition, the Dumper Shield includes a decentralized over-the-counter (OTC) solution for token holders who want to sell their tokens below the market face value. OTC transactions do not affect the value of the tokens on exchanges or in liquidity pools, and new buyers from the OTC are also added to the Dumper Shield. The Dumper Shield is the world's first decentralized OTC that acts as an exchange for vesting tokens.
+         Read more about the Dumper Shield 
+Self custody staking
+Self-custody staking is a way for PDO token holders to earn additional tokens just by holding the tokens in their own wallet or in a self-custody vault like behind the Dumper Shield. These staking rewards are paid out at regular intervals (determined by the Binance Smart Chain block time, which is approximately 3-5 seconds) simply for holding the tokens. 
+The initial annual percentage yield (APY) for staking rewards is ~10%, but this rate can be changed by a vote of the PDO  DAO (decentralized autonomous organization). It's important to note that any PDO tokens sent to the self-custody staking contract (which is 0x0000000000000000000000000000000000000001 address) are considered burned and cannot be recovered for trading, even through voting, without the self-custody staking smart contract. This incentivizes users to hold their PDO in a secure and easily accessible location, such as their own wallet or a self-custody vault.[6] .
+
+
+
+
+Trading reward
+As part of the go to market PDO.finacne strategy is to incentivize traders with dVoucher rewars. The dVoucher will allow user at any time and at no cost, to cash out at the dVoucher and claim any token in the Qwantum finance labs ecosystem with the same 1:1 face value.
+Read about dVoucher 
+100% Fee Reimbursement 
+PDO platform users have the option to receive 100% reimbursement for their gas and investment fees. Users are able to claim reimbursements via the reimbursement staking contract. To release reimbursements users must stake the 1:1 equal amount of PDO for one year, but will be able to release partial amounts of the reimbursement if withdrawn at any time, with zero penalty before the 1 year period. The pending balance accumulates and the user is able to claim the rest at any time in the future. 
+Tx Tax Fee
+The PDO token built-in the TX Tax fee functionality which taxes users every time they move the PDO between wallets. For example, the tax fee can be 5% (or any other number), the tokens that are taxed are sent to the flexible DeFi staking pool, which rewards users for holding PDO. This functionality is not yet active but is subject to later voting by the DAO if they wish to activate it.
+
+
+EVM compatible
+The PDO finance project is designed to support all Ethereum Virtual Machine (EVM)-based blockchains, including layer 2 scaling solutions. Additionally, if there is enough demand for it, the PDO finance team is open to adapting the code to fit non-EVM based chains such as the Lightning Network for Bitcoin, Cardano, and others.
+ 
+Scarcity
+PDO. finance is designed to have a limited supply of tokens for trading. tokens from pre-sell, public sale, IBO, and  PDO will be locked for a minimum of 90 days and then will be protected behind the Dumper shield, meaning they will not be able to be frelly traded in the market during that time. This helps to create scarcity of the tokens, which can drive up their value..[1]
+About Qwantum Finance Labs
+Qwantum Finance Labs is a DeFi ecosystem powered by decentralized protocols designed to create an efficient financial system based on quantum finance methods. These methods aim to reduce investment risk and increase liquidity for illiquid and risky assets.
+The Qwantum finance labs ecosystem develops innovative solutions such as a decentralized regulation exchange with circuit breakers, Initial Bond Offerings with principal protection, a decentralized index and decentralized SPAC, liquidity protection via reverse market making for Metaverse and NFTs, a new fundraising model for existing projects with investment protection, decentralized dumping insurance for liquidity providers on DEXs, a dumper shield for vesting tokens, among other financial instruments. These developments position Qwantum Finance Labs at the forefront of the future of finance.
+Liquidity Router
+A Liquidity Router is a smart contract that enables token holders to transfer their tokens from one project within the Qwantum finance Labs ecosystem to another, at a 1:1 $ face value. This allows holders of tokens with limited liquidity on their current project to move them to more liquid projects, reducing the risk of harm to both the project and the holder in the event of an exit. Additionally, as many startups have a high failure rate, it's likely that not all Qwantum finance Labs projects will be successful. The Liquidity Route allows holders to recover some of their loss by moving their tokens to a more successful project. The router works by "burning" the original token and minting a new one with the same value, which is placed under a Dumper Shield as a secondary priority to the "original" tokens on the new project. This means that tokens that were bought directly on a project have higher priority engage with liquidity, while transferred tokens have lower priority.
+
+
+
+
+________________
+
+
+[1]  https://bitcoinist.com/92-blockchain-projects-already-failed-average-lifespan-1-22-years/#:~:text=As%20Crisis%20Deepens-,92%25%20of%20Blockchain%20Projects%20Have%20Already%20Failed,Average%20Lifespan%20of%201.22%20Years&text=More%20than%2080%2C000%20projects%20claiming,the%20hottest%20buzzword%20in%20business 
+
+
+[2]  at the soft launch the PDO will support first the BSC chain and before the launch a full EVM compatible will be added
+
+
+
+
+[3]   Using a third-party staking protocols can carry the risk of losing funds if the provider goes out of business. Additionally, the APY generated from these protocols can be subject to change based on their terms. Qwantum Finance Lab is not vouchesing for the safety and financial strength of these protocols, stake at your own risk..
+
+
+
+
+[4] All new technologies carry risks that may result in loss. The risk-free theory is not legally  binding or a guarantee of future success.
+
+
+[5] Before using Reverse KYC, it is recommended to consult local professionals. Qwantum Finance Labs makes no warranties on legal compliance.
+
+
+[6]  Users can only enjoy self-custody staking when PDO tokens are not staking in other staking contracts.
+
+
+________________
+[1]  All new technologies carry risks that may result in loss. The risk-free theory is not legally binding or a guarantee of future success.
