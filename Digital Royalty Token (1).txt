@@ -1,0 +1,53 @@
+﻿Digital Royalty Token
+The future of token as an investment instrument 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Digital Royalty Token
+Digital Royalty Tokens (DRT) are a new use for traditional tokens in a way that turns those tokens into an instrument tied and correlated to the business performance of the project. To achieve this, the smart contract uses the overall fees from the project to buy Digital Royalty Tokens from the market and place them in a zero address, effectively "burning" the tokens and reducing the total supply. This process occurs in real-time and helps to increase the value of the remaining Digital Royalty Tokens.
+Digital Royalty Token vs simple tokens
+Digital Royalty Tokens (DRT ) are different from regular tokens in that they have an underlying value that is derived from the income stream of a project. This means that the value of DRT tokens is not solely based on speculation, like regular tokens often are. Instead, the value of DRT tokens is based on the real-time traction and success of the project they represent.
+As a result, DRT tokens may be more resistant to market downturns than regular tokens. Even when the market is crashing and the value of other tokens based on speculation is decreasing, DRT tokens may still hold value because they have a potential return on investment based on their proven income stream. Buyers may be attracted to DRT tokens in a down market because they see the potential for the value of the token to increase based on the project's performance.
+
+
+Security laws
+Unlike traditional royalty investment instruments, which represent a share of the income generated drive be the efforts of the company and can be subject to securities regulations, Digital Royalty Tokens (DRT) do not receive a direct income stream and are not tied to the performance of the company [1]. Instead, the value of DRT tokens is determined by the market forces surrounding the use of the project. Every time users engage with the project and pay fees, a portion of those fees are automatically used by a smart contract to buy and "burn" tokens from the liquidity pool, affecting the overall supply and price of the tokens.
+
+
+
+
+
+
+
+
+________________
+[1] It is recommended to consult with local legal professionals. Qwantum Finance Labs does not provide legal advice

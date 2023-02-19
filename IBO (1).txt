@@ -1,0 +1,139 @@
+﻿Initial Bond Offerings
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Initial Bond Offerings
+Projects looking to raise funds for their liquidity pool now have a new and innovative option through Initial Bond Offerings (IBO) on the DEREX exchange. This fundraising mechanism is designed specifically for new projects launching pools on the platform and provides a unique and attractive opportunity for investors.
+The IBO bonds offer a 50% discount to investors and include a Secure Floor at the baseline launch price. This means that investors have the assurance of a minimum value for their investment, giving them added security and peace of mind. Additionally, the discount provided through the IBO allows for early adopters and supporters of the project to receive a reduced rate on their investment. This, in turn, provides an incentive for individuals to invest in the pool at an early stage, which can help the project to reach its fundraising goals more quickly.
+The IBO process on DEREX exchange is simple, straightforward and efficient. Project creators can launch their IBO with ease and start raising funds to support their liquidity pool. With this new option, project creators can reach a wider pool of investors and generate more support for their project, leading to a more successful outcome.
+Overall, the Initial Bond Offering option on the DEREX exchange provides an exciting opportunity for both project creators and investors. Projects can access new funding options, while investors can benefit from discounts and a Secure Floor, making the investment process safer and more attractive.
+
+
+
+
+
+
+Deadend for scammers
+The blockchain industry has seen its fair share of bad actors and fraudulent projects in recent years, resulting in significant losses for investors.
+In 2018, the "PlusToken" scam in China defrauded investors of over $2 billion in cryptocurrency. The alleged operators of the scheme fled with the funds, leaving thousands of victims in their wake.
+Another notable example is the "BitConnect" scam, which promised absurdly high returns to investors and eventually resulted in a loss of over $2 billion in invested funds.
+In 2019, a report by CipherTrace found that cryptocurrency exchanges lost $1.7 billion to hackers and fraudsters.
+The "Monte Carlo" token salein 2021 raised over $50 million, but the project was later discovered to be a Ponzi scheme, resulting in significant losses for investors.
+The "PFG" token sale in 2021 raised over $100 million before being revealed as a fraudulent scheme and the funds were lost.
+These examples highlight the need for caution and due diligence when investing in the blockchain industry. While the potential for growth and innovation is substantial, the risks are just as significant. 
+
+
+Initial Bond Offerings can become a popular tool for investors seeking to invest funds with the assurance of a secure floor - meaning that the investors will always receive a minimum amount of the pair tokens (such as USDT or ETH) they invested. This protection is built into the bonds, allowing investors to invest in any project at any market condition and removing the need for guesswork on success or even due diligence .
+
+
+Spread without pray 
+
+
+IBO provide a low-risk investment opportunity allow investors to diversify their investments across unlimited projects, without having to worry about exposure to scams or losses. 
+The Secure Floor protection ensures that investors will always receive no less than the minimum amount they invested, providing a starting point that is 50% below the baseline launch price.[1] 
+
+
+How the Secure Floor works?
+DEREX has a built-in Secure Floor that eliminates dumping risk for LP investors.  Projects launching pools on DEREX must set the token ratio in the pool like in any other DEX. This ratio between the project token and its pair establishes the pool's baseline ratio, which becomes the Secure Floor.
+
+
+If the project token appreciates, LP investors profit, and if it crashes and reaches the baseline ratio, the Secure Floor automatically triggers a complete halt circuit breaker, reducing slippage to 0% and protecting the baseline price from further dumping. This provides a safety net for LP investment in new projects, allowing LPs to participate with no dumping risk.
+Example:
+* Project XYZ launches token on DEREX
+* Creates pool with 2 XYZ tokens to 1 USDT ratio
+* Baseline ratio of 1 XYZ token equal to $0.5, which also becomes the Secure Floor
+* If the XYZ token appreciates in value and the pool's ratio becomes 1 XYZ token to 1 USDT, LP investors in the pool will benefit from profits
+* However, if the value of the XYZ token crashes and reaches back to the baseline ratio of 2 XYZ token to 1 USDT, the Secure Floor will automatically trigger a complete halt circuit breaker
+* This reduces slippage to 0% and prevents further dumping
+* The XYZ token is protected at no less than $0.5 through the Secure Floor model
+
+
+
+
+
+
+
+
+Vesting duration
+ 
+Projects have the option to set vesting periods for their bond tokens through the use of cliffs or grades. A cliff vesting period would have a single time frame, such as 6 months or a year, while grade vesting would have smaller distributions over a longer time frame, like 10% vested every 30 days.
+Additionally, projects can create two classes of vesting, one for the principal investment and another for profits. This structure allows for an exit strategy for early LPs to cash out their principal investment, while profits are subject to a longer vesting period.
+Moreover, projects can also set a prepayment penalty rule for LPs who want to break the vesting period. This fine benefits the community by locking a portion of the LP's tokens in a deadend address. For example, an early release may result in a 10% fine on the LP's tokens.
+
+
+
+
+OTC bonds
+ 
+Investors still remaining under a lock due to the bond duration period, can sell their bonds through a p2p OTC bonds marketplace on DEREX exchange.
+
+
+
+
+Security regulations
+DEREX bonds carry the risk of being classified as debt securities in some jurisdictions. As a result, the DEREX exchange only supports bonds where all of the funds raised go directly to the pool and are completely controlled by investors, potentially avoiding the classification as securities.
+
+
+Many projects face difficulties in obtaining funding from non-accredited investors in countries such as the United States. However, the bond pool with a Secure Floor may meet the criteria of the US Howey test, as the invested funds are not invested in a common enterprise and the project does not have access to those funds. The funds are 100% under the control of liquidity provider investors from beginning to end, with no risks to the pool's behavior. [2]
+
+
+Tax regulations 
+Investing in a failed project through bonds does not result in a tax for the investor, as the funds are deposited into bonds similar to a staking contract. If no profits are generated, the original funds are returned like a cancellation order with no sell or buy transaction, avoiding a taxable event.[3] 
+
+
+
+
+IBO fees
+
+
+DEREX charges no fees that can be paid from raised funds, as those funds must remain untouched for investors to receive 100% return via Secure Floor. Instead, DEREX charges fees using project tokens, based on actual fundraising amount. 
+
+
+* For up to 100 BNB raised (equivalent to $10,000), the fee is 0%. 
+* Over 100 BNB raised, the fee is 10%. 
+
+
+The project has the option to decide how DEREX will manage the tokens that are paid as fees. They can either invest the 10% fee to support the project through PDO liquidity creation or establish a Dumper Shield, with the 10% fee being held behind it according to the project's set terms.
+
+
+Read more about Dumper Sheild 
+Read more about PDO 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+________________
+[1] All new technologies carry risks that may result in loss. The risk-free theory is not legally binding or a guarantee of future success.
+.
+[2] This document does not make any legal advice. It is advisable for those reading to seek advice from a professional legal expert.
+[3] This document does not make any tax warranty claims. It is advisable for those reading to seek advice from a professional accounting expert.

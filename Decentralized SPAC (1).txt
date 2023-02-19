@@ -1,0 +1,84 @@
+﻿Decentralized SPAC
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+About dSPAC
+The DEREX exchange has introduced a new investment vehicle called dSPAC (Decentralized Special Purpose Acquisition Contract) for quick and passive fundraising. This innovative solution allows projects to access matching funds from decentralized indexes through an intermediate dSPAC contract, which aggregates the funds and exchanges them for bonds in the project pool. This process is done in a single transaction, making it fast and efficient for projects to access the necessary funding for their liquidity pool.
+The dSPAC investment vehicle offers a unique opportunity for both projects and investors. Projects can raise funds quickly and passively, without having to actively seek out individual investors. This saves time and resources and allows projects to focus on other important aspects of their operations. Investors, on the other hand, can take advantage of a convenient and passive investment opportunity, allowing them to support new projects and benefit from the growth of their investment.
+
+
+
+
+Here's how the dSPAC investment vehicle works:
+1. Investors deposit funds into a dINDEX with specific investment criteria
+2. Projects deploy a dSPAC smart contract to raise funds
+3. dSPAC aggregates funds from matching dINDEXes that align with the project's investment criteria.
+4. dSPAC acts as intermediary, directing funds from dINDEXes into project bonds and from there into the pool to generate LP tokens that deposit into the bond.
+5. In same transaction, bonds sent back to dINDEXes.
+Read more about dINDEX
+Read more about DEREX Exchange
+
+
+
+
+dSPAC fee
+At the moment DEREX charge 0% fee to utlize the dSPACE[a][b]
+
+
+
+
+[a]dSPAC ordSPACE?
+[b]dSPAC

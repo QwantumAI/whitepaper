@@ -1,0 +1,21 @@
+﻿Multilevel ownership
+Multilevel ownership
+The multilevel ownership contract allows sellers to continue earning passive income from the sale of their assets even after the asset has been resold multiple times. This means that the asset will continue to generate profits for its previous owners. The income from each new sale is split proportionally among all current owners in real-time. This solution is fully decentralized and works even if the asset is listed and sold on exchanges that do not support this model.
+Example
+Let's consider an example where three people, Bob, Lisa and Tom, own a NFT. The original price of the NFT is $100.
+1. The NFT is resold for $200. The $100 of the previous sale price is reduced, leaving a remaining $100.
+* Bob receives 10% of the remaining $100, which is $10.
+* Lisa receives 10% of the remaining $90 (after Bob's share is taken), which is $9.
+* Tom receives 10% of the remaining $81 (after Bob and Lisa's share is taken), which is $8.10.
+
+
+2. The NFT is resold for $400. The $200 of the previous sale price is reduced, leaving a remaining $200.
+* Bob receives 10% of the remaining $200, which is $20.
+* Lisa receives 10% of the remaining $180 (after Bob's share is taken), which is $18.
+* Tom receives 10% of the remaining $162 (after Bob and Lisa's share is taken), which is $16.20.
+
+
+3. The NFT is resold for $800. The $400 of the previous sale price is reduced, leaving a remaining $400.
+* Bob receives 10% of the remaining $400, which is $40.
+* Lisa receives 10% of the remaining $360 (after Bob's share is taken), which is $36.
+* Tom receives 10% of the remaining $324 (after Bob and Lisa's share is taken), which is $32.40.

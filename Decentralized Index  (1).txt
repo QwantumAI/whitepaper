@@ -1,0 +1,58 @@
+﻿Decentralized Index 
+About Decentralized Index 
+DEREX has created a decentralized index (dIndex) for passive investors, automated liquidity management and yield aggregation funds. 
+
+
+The dINDEX consists of bonds that allocate funds among IBO projects based on pre-determined criteria. Investors can choose to invest in existing dINDEX or create new ones with custom criteria, such as the type of projects, investment amount, vesting period, and more. 
+The dINDEX acts as an open-ended fund, allowing investors to join or withdraw at any time.  All dIndexes are protected by the Secure Floor, reducing the risk of loss in case of project failure.
+
+
+To kick off, DEREX will launch the first dIndex, InDEREX500, which invests in the first 500 IBO projects.
+
+
+
+
+
+
+Government Rights vs Economic Rights 
+dINDEX has two classes of assets: government rights and economic rights. When creating a dINDEX, the creator can opt to retain government rights, similar to a General Partner (GP) in Venture Capital. By retaining government rights, the creator makes ongoing decisions about securing the pools and when to sell the bonds and reclaim profits for the dIndex, keeping economic rights holders passive during the process. Profits are then directly distributed to them.
+If the dINDEX has no GP, both government rights and economic rights are distributed among dINDEX investors, meaning that each investor must vote as a DAO for any action taken by the LP tokens in the pools.
+
+
+
+
+
+
+
+
+New income generator 
+dINDEX creators who hold government rights and make ongoing decisions regarding the management of the pool (such as voting on regulations and security measures and determining when to sell the bonds over the OTC or execute the sale of LP tokens back to the pool) can establish a fixed or percentage-based fee that will be paid from the profits as compensation for their work as fund managers.
+
+
+Because the dINDEX purchases assets that may not be considered securities in some jurisdictions, the creator may not need to be registered as a syndicator or have funds management qualifications to manage the dINDEX 
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+dINDEX fee
+DEREX charges investors that utilize the dINDEX structure 10% of the profits.[1] 
+
+
+
+
+
+
+
+
+________________
+[1]All fees are subject to adjustment through DAO voting.
