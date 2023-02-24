@@ -42,12 +42,3 @@ As a result, DRT tokens may be more resistant to market downturns than regular t
 Security laws
 Unlike traditional royalty investment instruments, which represent a share of the income generated drive be the efforts of the company and can be subject to securities regulations, Digital Royalty Tokens (DRT) do not receive a direct income stream and are not tied to the performance of the company [1]. Instead, the value of DRT tokens is determined by the market forces surrounding the use of the project. Every time users engage with the project and pay fees, a portion of those fees are automatically used by a smart contract to buy and "burn" tokens from the liquidity pool, affecting the overall supply and price of the tokens.
 
-
-
-
-
-
-
-
-________________
-[1] It is recommended to consult with local legal professionals. Qwantum Finance Labs does not provide legal advice
