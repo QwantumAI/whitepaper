@@ -1,265 +1,232 @@
-﻿//DRAFT//
-NFTmx Whitepaper v.2.1
+
+
+NFT protection
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
  
-
-
- 
-Current Market Overview
+Current market overview
 The current market for non-fungible tokens (NFTs) is facing several challenges. One of these challenges is the need for a marketplace to trade NFTs, similar to eBay. However, these marketplaces can be vulnerable to fraud and low volume, which can hinder liquidity. In addition, there is the risk of scammers manipulating the market by using multiple wallets and transactions to artificially inflate the price of their own NFTs and then selling them to unsuspecting buyers at a premium. This can erode community trust and decrease speculation and buying.
+ 
 Even if a marketplace is free of fraud and scams, it is still likely to face other issues. P2P galleries, like OpenSea, may become overcrowded and resemble stock photo sites or app stores with a vast number of offerings. This could make it difficult for creators and investors to sell their NFTs or NFT collections, as they may struggle to gain the visibility and promotion needed to succeed. The market may become dominated by a small number of influencers or celebrities who are able to generate the necessary hype to sell their NFTs.
+ 
 Obsolete NFT collection potential
 Furthermore, as the number of NFT collections increases, some may not survive and become obsolete. While floor prices are meant to provide protection, high fluctuation can lead to potential "run on the bank" scenarios where NFT holders end up with worthless assets.
-Needs for a better NFT marketplace 
+ 
+Needs for a better NFT marketplace
 There is a need for a better NFT marketplace that addresses several issues currently facing the market. One of these issues is the need to generate sustainable liquidity for sellers, regardless of market conditions. This means that sellers should be able to easily buy and sell their NFTs even when the market is experiencing downturns or volatility.
+ 
 Another need is to create a marketplace that provides equal opportunity for all sellers, regardless of their level of promotion or recognition. This includes providing opportunities for new and unknown creators to sell their NFTs and generate income streams from their intellectual property.
+ 
 The marketplace should also work to eliminate scams and pump and dump schemes, which can manipulate the market and harm honest sellers and buyers. By providing a safe and transparent marketplace, it will be possible to increase confidence and trust in the market, which can in turn drive increased liquidity and buying pressure.
-NFT.mx is an NFT decentralized exchange that aims to address all the challenges facing the market, including the need for sustainable liquidity, buy pressure, and the removal of pump and dump schemes. It does this by using quantum finance models to create the world's first NFT based on 100% liquidity protection through techniques such as Reverse Market Making, Decentralized Venture Capital, and IP income stream generation.
-Unlike other NFT marketplaces, which are often centralized and built as peer-to-peer (P2P) platforms, NFT.mx is the world's first decentralized NFT exchange to support both peer-to-contract (P2C) and contract-to-contract (C2C) transactions. This decentralized approach is meant to provide additional security and transparency for buyers and sellers.
-
-
-
-
+ 
+NFT.Protection is an NFT decentralized exchange that aims to address all the challenges facing the market, including the need for sustainable liquidity, buy pressure, and the removal of pump and dump schemes. It does this by using quantum finance models to create the world's first NFT based on 100% liquidity protection through techniques such as Reverse Market Making, Decentralized Venture Capital, and IP income stream generation.
+ 
+Unlike other NFT marketplaces, which are often centralized and built as peer-to-peer (P2P) platforms, NFT.Protection is the world's first decentralized NFT exchange to support both peer-to-contract (P2C) and contract-to-contract (C2C) transactions. This decentralized approach is meant to provide additional security and transparency for buyers and sellers.
+ 
 Quantum Finance
 Quantum finance is a new field that uses theories and methods developed by quantum physicists and economists to solve problems in finance. Unlike traditional binary methods, which are based on two positions (0 and 1, false and true) and often result in a zero-sum game with high risk and limited possibilities, quantum finance introduces multiple positions that can significantly reduce risk and create liquidity even for non-liquid assets.
-NFT.mx applies quantum finance principles in a way that allows investors to simultaneously hold two contradictory positions: one as a buyer and owner of an NFT, and another as a non-buyer and non-owner. This allows investors to potentially profit from their investments and then decide whether to finalize the transaction as a buyer or walk away, depending on how the market develops.
-Although quantum finance is a relatively new field, the team behind NFT.mx believes that it has the potential to revolutionize the way we think about finance and investment. They are proud to be among the first to bring this concept to the blockchain.
-
-
-Reverse Market Making 
-Reverse Market Making (RMM) is a liquidity solution that was designed to boost the non-fungible token (NFT) industry in a similar way to how Automated Market Making (AMM) has helped the cryptocurrency market and created the DeFi bull run. 
+ 
+NFT.Protection applies quantum finance principles in a way that allows investors to simultaneously hold two contradictory positions: one as a buyer and owner of an NFT, and another as a non-buyer and non-owner. This allows investors to potentially profit from their investments and then decide whether to finalize the transaction as a buyer or walk away, depending on how the market develops.
+ 
+Although quantum finance is a relatively new field, the team behind NFT.Protection believes that it has the potential to revolutionize the way we think about finance and investment. They are proud to be among the first to bring this concept to the blockchain.
+ 
+Reverse Market Making
+Reverse Market Making (RMM) is a liquidity solution that was designed to boost the non-fungible token (NFT) industry in a similar way to how Automated Market Making (AMM) has helped the cryptocurrency market and created the DeFi bull run.
+ 
 AMM has been used by decentralized exchanges (DEXs) such as Uniswap and Pancakeswap to provide liquidity to brand new projects from the start, without the barriers of traditional centralized exchanges (CEXs). It has also paved the way for the development of new lending, options, and derivative protocols, which are now an important part of the decentralized financial ecosystem.
+ 
 RMM works by creating instant liquidity for any NFT through a smart contract, without the need for a counterparty buyer. It allows buyers to reverse their trade back to the smart contract like it was a refund or cancellation order, while the seller acts as the market maker and benefits from the trade-off regardless of the outcome. This liquidity solution provides protection for buyers during the period of liquidity protection.
-
-
+ 
 100% Liquidity protection
 NFTs and NFT collections can be difficult to trade due to scalability issues, limited liquidity, and higher risks for investors. These risks are exacerbated by bad actors who promote assets through manipulating their value and demand using fake wallets, and the lack of a guarantee of liquidity for sellers.
-To address these issues, NFT.mx designed 100% liquidity protection solution for buyers. This means that sellers can act as market makers by offering buyers protection for a certain period of time, during which buyers have the option to return the NFT to the smart contract and receive back the exact protected value in the same tokens that they invested with. This protection is available regardless of market conditions, helping to reduce risk for buyers and make it easier for them to trade NFTs.[1]
-example 
-* Bob seeks to sell his NFT for $1,000 while earning a reward as a market maker
-* Bob uses Reverse Market Making (RMM) to provide future buyers with liquidity protection for 90 days in exchange for a 5% slippage fee in case of cancellation
-* This ensures Bob earns a 5% profit over 90 days, equating to a 20% annual percentage yield (APY)
-* Lisa decides to purchase Bob's NFT for $1,000 and transfers her funds to a Liquidity Protection smart contract
-* If Lisa finalizes the transaction, she will only have to pay the base price of $1,000 to Bob
-* If market conditions deteriorate or Lisa is unable to resell the NFT, she has the option to reverse the transaction and receive a full refund of her funds, minus any applicable fees and slippage.
-
-
+ 
+To address these issues, NFT.Protection designed 100% liquidity protection solution for buyers. This means that sellers can act as market makers by offering buyers protection for a certain period of time, during which buyers have the option to return the NFT to the smart contract and receive back the exact protected value in the same tokens that they invested with. This protection is available regardless of market conditions, helping to reduce risk for buyers and make it easier for them to trade NFTs.[1]
+ 
+Example
+·         Bob seeks to sell his NFT for $1,000 while earning a reward as a market maker
+·         Bob uses Reverse Market Making (RMM) to provide future buyers with liquidity protection for 90 days in exchange for a 5% slippage fee in case of cancellation
+·         This ensures Bob earns a 5% profit over 90 days, equating to a 20% annual percentage yield (APY)
+·         Lisa decides to purchase Bob's NFT for $1,000 and transfers her funds to a Liquidity Protection smart contract
+·         If Lisa finalizes the transaction, she will only have to pay the base price of $1,000 to Bob
+·         If market conditions deteriorate or Lisa is unable to resell the NFT, she has the option to reverse the transaction and receive a full refund of her funds, minus any applicable fees and slippage.
+ 
 Earning from making the market
 Sellers who act as market makers utlzing the RMM have the opportunity to earn rewards in two ways: through slippage and by leveraging staking.
+ 
 Slippage reward
 Slippage reward is a form of compensation that sellers can request in exchange for offering a liquidity protection period. The amount of slippage is disclosed to and agreed upon by the buyer before the transaction takes place, and it is fixed rather than being unpredictable like it is on some decentralized exchanges (DEXs).
-Leveraging staking 
+ 
+Leveraging staking
 Alternatively or in addition to slippage, sellers can offer buyers low or even zero slippage in exchange for the opportunity to leverage the buyer's funds on a third-party decentralized protocol to generate passive income through annual percentage yield (APY). This can reduce the cost for the buyer to zero and provide the seller with enough reward to justify acting as a market maker. In both cases, the initial principal from the purchase is secured in a smart contract vault and is not sent to the seller until the sale is finalized.[2]
+ 
 Benefits for sellers and buyers utilizing RMM
 There are several benefits for both sellers and buyers to utlize the RMM solution. Sellers can potentially increase their conversion rate and provide equal opportunities to new and unknown NFT creators by offering liquidity protection. They can also earn rewards as market makers regardless of the sale outcome, and if they choose to leverage staking, they can keep any APY staking rewards earned. This earning while selling concept is similar to a traditional lease-to-own concept in the real estate industry.
+ 
 Buyers, on the other hand, can hedge their investments and explore higher-risk and potentially lucrative new opportunities with the knowing that they can always reverse the trade back to the smart contract like it was a cancellation or refund without any tax triggers if they are unable to sell the NFT to a new buyer. If a buyer agrees to a slippage reward, they will only pay it if they cancel the transaction and receive a full refund. If the seller is leveraging staking, the buyer does not have to pay anything in exchange for the liquidity protection; instead, the seller is paid by a third-party decentralized staking protocol such as Curve, Venus, or Yearn Finance.
-
-
-
-
-
-
-NFTmx vs Opensea 
-Opensea is comparable to a centralized crypto exchange that operates on a peer-to-peer model, whereas NFTmx is more akin to a decentralized exchange that relies on peer-to-contract transactions.
-
-
-Comparing example for seller
-OpenSea Peer-to-Peer (P2P) marketplace
-* Bob has 1,000 NFT assets for sale at $1,000 each, totaling $1,000,000
-* Bob lists his assets on OpenSea
-* Bob has a 5% conversion sale rate, meaning he sells $50,000 worth of NFT assets
-* The remaining $950,000 worth of assets do not sell.
-
-
-NFTmx Peer-to-Contract (P2C) decentrlzed exchange 
-* Bob has 1,000 NFT assets for sale at $1,000 each, totaling $1,000,000
-* Bob lists his assets with liquidity protection for 365 days
-* Bob has a 95% cancellation rate (meaning only 5% of the assets are sold)
-* Bob receives $50,000 for selling his NFT assets
-* Bob also receives an additional $95,000 from generating around 10% slippage or APY over the $950,000 worth of assets that did not sell
-* Bob's total reward is 290% more than on a peer-to-peer marketplace like OpenSea.
-
-
-Comparing example for buyer
-OpenSea - Peer-to-Peer (P2P) 
-* Lisa purchased NFT for $1,000 
-* Lisa can’t find a buyer for her NFT and she left with zero sum game. Meaning the $1000 NFT has no value.
-NFTmx  - Peer-to-Contract  (P2C)
-* Lisa purchased NFT for $1,000 
-* Lisa can’t find a buyer for her NFT so she return it back to the liquidity protection smart contract and get a full 100% refund (minus NFTmx 2.5% transaction fee and pre agreed slippage if exist) if Lisa agreed to liquidity leverage instead of slippage reward, then lisa will get all her investment back fully (minus NFTmx 2.5% transaction fee)
-
-
-
-
+ 
 Liquidity protection process
 The liquidity protection process is a way for sellers to offer buyers protection against potential losses that may occur when buying and selling assets. The process involves the use of non-fungible tokens (NFTs) to represent the protection offered to buyers.
-Step 1 - Offering
-sellers offer buyers 100% liquidity protection for a specified number of days, and select a reward for the protection based on slippage or leverage staking.
-
-
-Step 2 - Selection
-buyers can select an NFT that provides the desired liquidity protection and reward.
-
-
-Step 3 - Sale and protection period
-the slippage reward is sent to the seller immediately and is non-refundable. The funds covered by the liquidity protection are locked in a smart contract and, if the seller has offered liquidity protection with leverage staking, are also transferred to decentralized protocols like yearn.finance or Venus to generate passive annual percentage yield (APY) as a reward for the seller.
-
-
-Step 4 - Buyer revokes liquidity protection
-buyers have the option to revoke the liquidity protection by returning the NFT to the seller's liquidity protection smart contract. This triggers a full refund of the protected funds in the original token used by the buyer. If the transaction included leverage staking, the seller will receive the APY market making rewards and the buyer will receive their protected funds from the decentralized protocols in the form of a wrapped token (such as cUSDC or vUSDC).
-Alternatively, if the NFT is not returned to the liquidity protection contract during the protection period, the seller can claim payment from the smart contract once the period expires, indicating a successful sale.
-Seller use case 
-* Imagine a seller of 1,000 different NFTs
-* The seller offers all 1,000 NFTs for $1,000 each (worth $1,000,000 total)
-* Thos NFT are protected by liquidity protection in exchange for leveraging staking or fix slippage
-* Once received, the $1,000,000 received by the contract, it is automatically sent to Venus and/or yearn.finance with an average 10% APY or stay in the vault in exchange for immediate fixed slippage of let’s say 10%
-* During the protection period 95% of the NFT are canceled and 5% are sold
-* For the 5% NFTs sold, the seller receives the full payment of $50K and the buyer receives back the NFT’s
-* The funds for the remaining 95% of the NFT’s that were canceled are returned to the buyer and the NFTs to the seller.
-* During this period, the seller generated APY above the $1,000,000 value of the NFTs, equal to $100,000
-* The total profit for the seller is $150,000 ($50,000 for the sold NFTs + $100,000 reward) representing 300% ROI over 50K sold NFT supply.
-
-
+ 
+1.       Offering
+ Sellers offer buyers 100% liquidity protection for a specified number of days, and select a reward for the protection based on slippage or leverage staking.
+2.       Selection
+ Buyers can select an NFT that provides the desired liquidity protection and reward.
+3.       Sale and protection period
+ The slippage reward is sent to the seller immediately and is non-refundable. The funds covered by the liquidity protection are locked in a smart contract and, if the seller has offered liquidity protection with leverage staking, are also transferred to decentralized protocols like yearn.finance or Venus to generate passive annual percentage yield (APY) as a reward for the seller.
+4.       Buyer revokes Liquidity protection
+ Buyers have the option to revoke the liquidity protection by returning the NFT to the seller's liquidity protection smart contract. This triggers a full refund of the protected funds in the original token used by the buyer. If the transaction included leverage staking, the seller will receive the APY market making rewards and the buyer will receive their protected funds from the decentralized protocols in the form of a wrapped token (such as cUSDC or vUSDC).
+ 
+5.       Alternatively, if the NFT is not returned to the liquidity protection contract during the protection period, the seller can claim payment from the smart contract once the period expires, indicating a successful sale.
+ 
+ 
+Seller Use Case
+·         Imagine a seller of 1,000 different NFTs
+·         The seller offers all 1,000 NFTs for $1,000 each (worth $1,000,000 total)
+·         Thos NFT are protected by liquidity protection in exchange for leveraging staking or fix slippage
+·         Once received, the $1,000,000 received by the contract, it is automatically sent to Venus and/or yearn.finance with an average 10% APY or stay in the vault in exchange for immediate fixed slippage of let’s say 10%
+·         During the protection period 95% of the NFT are canceled and 5% are sold
+·         For the 5% NFTs sold, the seller receives the full payment of $50K and the buyer receives back the NFT’s
+·         The funds for the remaining 95% of the NFT’s that were canceled are returned to the buyer and the NFTs to the seller.
+·         During this period, the seller generated APY above the $1,000,000 value of the NFTs, equal to $100,000
+·         The total profit for the seller is $150,000 ($50,000 for the sold NFTs + $100,000 reward) representing 300% ROI over 50K sold NFT supply.
+ 
 Unlimited Liquidity protection layers
 RMM designed to increase liquidity and demand for NFTs in the same way that the Bill of Exchange, a financial instrument from the 17th century, increased liquidity for money. When a buyer purchases an NFT with liquidity protection via RMM, the protection acts as collateral for the buyer. This means that the buyer can then sell the same NFT to another buyer with liquidity protection, potentially at a higher price, and earn a profit. This process can be repeated multiple times, with the NFT being resold to successive buyers with liquidity protection, potentially resulting in increased trading volume and value for the NFT. The number of times the NFT can be resold in this way is unlimited.
-Incentives for buyers to create a buy pressure 
+ 
+Incentives for buyers to create a buy pressure
 There are several incentives for buyers to create buying pressure for NFTs via RMM (Reserve Market Making) and retain or resell them in the future, such as:
-1. Buyers can register themselves as future owners under the multilevel ownership, even if they bought and sold the NFT at a higher, same, or lower price.
-2. Buyers can earn market-making rewards that are larger than the rewards they pay to their sellers.
-3. Buyers can at any time fork their NFT and create derivatives or sub-collections, and then conduct an initial offering, but  they  can only claim the profits generated from these sales once their liquidity protection period has expired, as an alternative they can also sell the NFT along with underlying locked profits from the sub-collections to the next buyer.
-
-
-Example of cancellation 
-* Bob purchases an NFT for $100, with 100-day liquidity protection and a 5% slippage fee.
-* Lisa purchases the same NFT from Bob for $200, with 90-day liquidity protection and a 10% slippage fee.
-* Peter purchases the NFT from Lisa for $400, with 60-day liquidity protection and a 2% slippage fee.
-* After 30 days, Peter cancels his purchase and receives a full refund minus slippage and fees. The NFT is returned to Lisa.
-* If no new buyer is found, Lisa has the option to keep the NFT or trigger her liquidity protection and return it to Bob in exchange for a full refund minus slippage and fees.
-* Once Bob receives the NFT, the system automatically relists it for resale under the same terms as before.
-* If it remains unsold, Bob has the option to keep it or trigger the liquidity protection and return it to the creator in exchange for a full refund minus slippage and fees.
-* In this scenario, none of the buyers in the liquidity protection layers are exposed to any principal loss, and each buyer who acts as a seller is rewarded as a market-maker via slippage compensation, including the creator.
-
-
-
-
-
-
-
-
-
-
+·         Buyers can register themselves as future owners under the multilevel ownership, even if they bought and sold the NFT at a higher, same, or lower price.
+·         Buyers can earn market-making rewards that are larger than the rewards they pay to their sellers.
+·         Buyers can at any time fork their NFT and create derivatives or sub-collections, and then conduct an initial offering, but  they  can only claim the profits generated from these sales once their liquidity protection period has expired, as an alternative they can also sell the NFT along with underlying locked profits from the sub-collections to the next buyer.
+ 
+Example of cancellation
+·         Bob purchases an NFT for $100, from the creator with 100-day liquidity protection and a 5% slippage fee (the creator is instantly compensated for this slippage).
+·         Lisa purchases the same NFT from Bob for $200, with 90-day liquidity protection and a 10% slippage fee (Bob is instantly compensated for this slippage).
+·         Peter purchases the NFT from Lisa for $400, with 60-day liquidity protection and a 2% slippage fee  (Lisa is instantly compensated for this slippage).
+·         After 30 days, Peter cancels his purchase and receives a full refund minus slippage and fees. The NFT is returned to Lisa.
+·         If no new buyer is found, Lisa has the option to keep the NFT or trigger her liquidity protection and return it to Bob in exchange for a full refund minus slippage and fees.
+·         Once Bob receives the NFT, the system automatically relists it for resale under the same terms as before.
+·         If it remains unsold, Bob has the option to keep it or trigger the liquidity protection and return it to the creator in exchange for a full refund minus slippage and fees.
+In this scenario, none of the buyers in the liquidity protection layers are exposed to any principal loss, and each buyer who acts as a seller is rewarded as a market-maker via slippage compensation, including the creator.
+ 
 Example of completion
-* Bob purchases an NFT from the creator for $100, with a 100-day liquidity protection and a 5% slippage fee.
-* Lisa then buys the same NFT from Bob for $200, with a 90-day liquidity protection and a 10% slippage fee.
-* Peter then buys the NFT from Lisa for $400, with a 60-day liquidity protection and a 2% slippage fee.
-* After 60 days, the liquidity protection for Peter expires, and he retains the NFT.
-* All sellers, including the creator, can claim their sales profits from the smart contract.
-
-
-
-
-
-
-Expanding P2C liquidity protection to P2P marketplaces
+·         Bob purchases an NFT from the creator for $100, with a 100-day liquidity protection and a 5% slippage fee (the creator is instantly compensated for this slippage).
+·         Lisa then buys the same NFT from Bob for $200, with a 90-day liquidity protection and a 10% slippage fee (Bob is instantly compensated for this slippage).
+·         Peter then buys the NFT from Lisa for $400, with a 60-day liquidity protection and a 2% slippage fee (Lisa is instantly compensated for this slippage).
+·         After 60 days, the liquidity protection for Peter expires, and he retains the NFT.
+·         All sellers, including the creator, can claim their sales profits from the smart contract.
+ 
+NFT.Protection vs Opensea
+Opensea is comparable to a centralized crypto exchange that operates on a peer-to-peer model, whereas NFT.Protection is more akin to a decentralized exchange that relies on peer-to-contract transactions.
+ 
+Comparing Example for seller
+OpenSea peer-to-peer (P2P) marketplace
+·         Bob has 1,000 NFT assets for sale at $1,000 each, totaling $1,000,000
+·         Bob lists his assets on OpenSea
+·         Bob has a 5% conversion sale rate, meaning he sells $50,000 worth of NFT assets
+·         The remaining $950,000 worth of assets do not sell.
+ 
+NFT.Protection peer-to-contract (P2C) decentralized exchange
+·         Bob has 1,000 NFT assets for sale at $1,000 each, totaling $1,000,000
+·         Bob lists his assets with liquidity protection for 365 days
+·         Bob has a 95% cancellation rate (meaning only 5% of the assets are sold)
+·         Bob receives $50,000 for selling his NFT assets
+·         Bob also receives an additional $95,000 from generating around 10% slippage or APY over the $950,000 worth of assets that did not sell
+·         Bob's total reward is 290% more than on a peer-to-peer marketplace like OpenSea.
+ 
+Comparing example for buyer
+OpenSea - Peer-to-Peer (P2P)
+·         Lisa purchased NFT for $1,000
+·         Lisa can’t find a buyer for her NFT and she left with zero sum game. Meaning the $1000 NFT has no value.
+ 
+NFT.Protection - Peer-to-Contract  (P2C)
+·         Lisa purchased NFT for $1,000
+·         Lisa can’t find a buyer for her NFT so she return it back to the liquidity protection smart contract and get a full 100% refund (minus NFT.Protection 2.5% transaction fee and pre agreed slippage if exist) if Lisa agreed to liquidity leverage instead of slippage reward, then lisa will get all her investment back fully (minus NFT.Protection 2.5% transaction fee)
+ 
+Liquidity for P2P marketplaces
 NFTs that have been protected via RMM can be also sold on peer-to-peer (P2P) basic marketplaces such as Opensea and SuperRare.
-The liquidity protection feature remains linked to the NFT even after it is sold, so that future buyers on other platforms can return the NFT to the liquidity protection smart contract on NFTmx. This allows for the NFT to continue being protected even if it is resold multiple times on different platforms.
-
-
+ 
+The liquidity protection feature remains linked to the NFT even after it is sold, so that future buyers on other platforms can return the NFT to the liquidity protection smart contract on NFT.Protection. This allows for the NFT to continue being protected even if it is resold multiple times on different platforms.
+ 
 14-day days cancellation law
 The US 14-day cooling-off period and the Europe 14-day right of withdrawal, as consumer protection laws, can pose risks for NFT sellers in the form of cancellations and class action lawsuits. These laws give consumers the right to cancel a sale and receive a refund within a specified time frame, which could result in financial losses for NFT sellers, as they may need to refund the purchase price for NFTs that have already been sold.
+ 
 In addition, NFT sellers could be exposed to class action lawsuits if they fail to comply with these laws. For example, if a large number of consumers claim that their rights under the cooling-off period or right of withdrawal were violated, they could band together and bring a class action lawsuit against the NFT seller. This could result in significant legal expenses, as well as financial damages if the NFT seller is found to have violated the law.
-It is important for NFT sellers to be aware of the relevant consumer protection laws in their jurisdiction, and to ensure that they comply with these laws in their NFT sales activities. This may include incorporating the provisions of the cooling-off period and right of withdrawal into NFT sales contracts and providing consumers with clear and concise information about their rights under these laws.
+ 
 The current marketplaces, such as OpenSea may be considered facilitators or intermediaries in NFT sales, rather than direct sellers of NFTs. In some cases, this could limit the marketplaces' exposure to consumer protection laws such as the cooling-off period or right of withdrawal, as the primary responsibility for complying with these laws would lie with the NFT seller.
+ 
 However, depending on the jurisdiction and the specific provisions of each law, OpenSea could still be exposed to class action lawsuits if consumers claim that their rights under the cooling-off period or right of withdrawal were violated. For example, if a large number of consumers claim that the NFT sellers on OpenSea violated their rights under these laws, they could band together and bring a class action lawsuit against OpenSea.
-
-
-
-
+ 
 The future of digital vendors
 In the future, digital vendors that offer a 30-90 days refund policy “100% money back guarantee” no questions asked, may adopt liquidity protection to ensure the security of their refund policies. With liquidity protection, buyers can trust any vendor, even if the vendor becomes insolvent, because the money they use to purchase a digital product is deposited into a secure smart contract vault. If the buyer decides to return the product during the protection period, they can use a decentralized trigger to call the money back from the smart contract vault. This allows for a hassle-free refund process with minimal risk for both the buyer and the vendor.
-
-
-Initial NFT Offerings
-NFT.mx enables NFT creators to launch Initial NFT Offerings (INO) featuring their collections. INOs can be offered at a fixed price or through an auction. By utilizing the Multilevel Ownership smart contract, INOs provide 100% liquidity protection along with an additional higher slippage fee, which is instantly paid to the issuer, as well as an extra higher ownership fee for perpetuity each time the NFT is sold. This structure offers greater protection for buyers compared to traditional INOs, while also generating more revenue for the issuer, and is in compliance with the 14-day cancellation law.
-
-
-Example
-Let's say an NFT issuer wants to launch an INO for a collection or subcollection of 10,000 NFTs at a fixed price of $100 per NFT. Instead of using a traditional INO that can generate $1,000,000 in sales, the issuer decides to utilize a 50% Multilevel Ownership smart contract with 100% liquidity protection and a 25% slippage fee.
-* The issuer will instantly receive $250,000 ($100 x 25% x 10,000 NFTs), while the rest of the funds ($750,000) stay pending.
-* When the first buyer of an NFT resells it for $200, the issuer will receive an extra $500,000 (($200 - $100) x 50% x 10,000 NFTs) as the multilevel ownership fee.
-* When the second buyer of an NFT resells it for $400, the issuer will receive an extra $1,000,000 (($400 - $200) x 50% x 10,000 NFTs) as the multilevel ownership fee.
-* And when the third buyer of an NFT resells it for $800, the issuer will receive an extra $2,000,000 (($800 - $200) x 50% x 10,000 NFTs) as the multilevel ownership fee.
-In total, the issuer has received $3,750,000 from the multilevel ownership and liquidity protection, with an extra $750,000 pending. This is 400% higher than a traditional INO.
-
-
-
-
-Automated Decentralized Syndication 
-NFT.mx's Automated Decentralized Syndication (ADS) allows any buyer or seller to pool funds together to purchase an NFT and automatically resell it for a profit. ADS acts as the owner of the NFT and each ADS can only be used for one NFT. All members of the ADS have an equal share based on their investment amount, and can claim their profits or refunded principal at any time without authorization from other investors. ADS provides is a security compliant, efficient, and scalable solution for group purchasing of NFTs, avoiding the security risks and potential deadlock of tokenized tokens that can occur with other syndication models.
-
-
-
-
-Decentralized Venture Capital
-Decentralized Venture Capital (DVC) is a fund with a potential no loss strategy[3]  that utilizes contract-to-contract (C2C) interactions and targets investment opportunities based on specific criteria, such as liquidity protection and specific collections. The DVC can be created by deploying funds or by acting as a General Partner (GP) and inviting Limited Partners (LPs) to contribute funds. The investment criteria for the DVC are set by the creator and automatically trigger the buying and selling of NFTs based on these criteria. The DVC creator, similar to a GP, has the option to charge a carry or success fee from the profits of their LPs[4]. DVCs are incentivized to add value to their portfolio through marketing, promotion, or by adding IP to the NFT, rather than waiting for market forces to increase the value of the NFT
-Read more about DVC
+ 
+ 
+More innovations
+Automated Decentralized Syndication
+NFT.Protection's Automated Decentralized Syndication (ADS) allows any buyer or seller to pool funds together to purchase an NFT and automatically resell it for a profit. ADS acts as the owner of the NFT and each ADS can only be used for one NFT. All members of the ADS have an equal share based on their investment amount, and can claim their profits or refunded principal at any time without authorization from other investors. ADS provides is a security compliant, efficient, and scalable solution for group purchasing of NFTs, avoiding the security risks and potential deadlock of tokenized tokens that can occur with other syndication models.
+ 
 Multilevel ownership
 The multilevel ownership contract allows sellers to continue earning passive income from the sale of their assets even after the asset has been resold multiple times. This means that the asset will continue to generate profits for its previous owners. The income from each new sale is split proportionally among all current owners in real-time. This solution is fully decentralized and works even if the asset is listed and sold on exchanges that do not support this model.
+Read more about Multilevel ownership
+ 
+Initial NFT Offerings
+NFT.Protection enables NFT creators to launch Initial NFT Offerings (INO) featuring their collections. INOs can be offered at a fixed price or through an auction. By utilizing the Multilevel Ownership smart contract, INOs provide 100% liquidity protection along with an additional higher slippage fee, which is instantly paid to the issuer, as well as an extra higher ownership fee for perpetuity each time the NFT is sold. This structure offers greater protection for buyers compared to traditional INOs, while also generating more revenue for the issuer, and is in compliance with the 14-day cancellation law.
+ 
 Example
-Let's consider an example where three people, Bob, Lisa and Tom, own a NFT. The original price of the NFT is $100.
-1. The NFT is resold for $200. The $100 of the previous sale price is reduced, leaving a remaining $100.
-* Bob receives 10% of the remaining $100, which is $10.
-* Lisa receives 10% of the remaining $90 (after Bob's share is taken), which is $9.
-* Tom receives 10% of the remaining $81 (after Bob and Lisa's share is taken), which is $8.10.
-
-
-2. The NFT is resold for $400. The $200 of the previous sale price is reduced, leaving a remaining $200.
-* Bob receives 10% of the remaining $200, which is $20.
-* Lisa receives 10% of the remaining $180 (after Bob's share is taken), which is $18.
-* Tom receives 10% of the remaining $162 (after Bob and Lisa's share is taken), which is $16.20.
-
-
-3. The NFT is resold for $800. The $400 of the previous sale price is reduced, leaving a remaining $400.
-* Bob receives 10% of the remaining $400, which is $40.
-* Lisa receives 10% of the remaining $360 (after Bob's share is taken), which is $36.
-* Tom receives 10% of the remaining $324 (after Bob and Lisa's share is taken), which is $32.40.
-Derivatives Subcollection
-NFTmx's AI technology allows NFT owners to create and sell derivative subcollections as new NFTs through an initial offering. These new NFTs can have unique terms set by the seller, such as value and liquidity protection, which enables buyers to generate multiple profits that may exceed the cost of the original NFT.
-Once derivatives are created, they will be placed under a subcollection of the original collection with decentralized proof that ensures the derivative buyer that the derivative is related to the original NFT.
-To mint derivatives as a subcollection, creators need to surrender the NFT, meaning they need to lock the NFT in a smart contract that will be used as the template to mint those derivatives. To release the NFT from that smart contract, the wallet that wants to claim the NFT needs to hold all the derivatives that were created from that NFT.
-
-
-Derivatives NFT Offering
-NFT.mx allows any user to become an issuer-seller by launching their own Derivatives NFT Offerings (DNO) based on their NFT. Utilizing the 100% liquidity protection smart contracts, DNOs offer increased liquidity and protection for buyers compared to any traditional offerings, while also creating additional revenue opportunities for the issuer-seller.
-NFT.mx provides an accessible and user-friendly AI technology to asset the seller to issue the derivatives.
-
-
-Example
-Let's say a buyer purchases a Bored Ape NFT for $100,000 and wants to issue a DNO for a sub-collection of 10,000 derivative Bored Ape NFTs at a fixed price of $100 per derivative NFT. Utilizing 100% liquidity protection with, for example, a 25% slippage fee.
-* In the case of 100% sold-out and 0% cancellation, the issuer-seller generates $1,000,000 in sales, which represents a 1,000% ROI.
-* In the case of a high volume of cancellations, let's say 90%, the issuer-seller still generates $100,000 for the sale plus $225,000 for slippage, a total of $325,000 in income, representing a 325% ROI.
-
-
-A successful DNO can increase the value of the original NFT and establish a higher floor value for it. For example, if the NFT is sold for $100,000 but the entire derivative sub-collection is valued at $1 million, it can create demand for a buyer to acquire the original NFT and acquire control over the underlying sub-collection assets
-
-
-
-
-
-
-Transaction fee 
-When a purchase is made on NFTmx, a 2.5% transaction fee is immediately applied. After the fee is applied, the seller will receive the remaining amount once the transaction is no longer under protection. If the seller charges a slippage fee, it will be calculated based on the remaining amount after the NFTmx transaction fee. For example, if the sale price is $100, the seller will be eligible for $97.5. If the seller charges a 10% slippage fee, they will receive $9.75 immediately, and the remaining $87.75 will be locked under the liquidity protection contract. 
-The NFTmx fees are reimbursed in NFTmx tokens through the reimbursement staking smart contract, eliminating any costs for the seller.
+Let's say an NFT issuer wants to launch an INO for a collection or subcollection of 10,000 NFTs at a fixed price of $100 per NFT. Instead of using a traditional INO that can generate $1,000,000 in sales, the issuer decides to utilize a 50% Multilevel Ownership smart contract with 100% liquidity protection and a 25% slippage fee.
+·         The issuer will instantly receive $250,000 ($100 x 25% x 10,000 NFTs), while the rest of the funds ($750,000) stay pending.
+·         When the first buyer of an NFT resells it for $200, the issuer will receive an extra $500,000 (($200 - $100) x 50% x 10,000 NFTs) as the multilevel ownership fee.
+·         When the second buyer of an NFT resells it for $400, the issuer will receive an extra $1,000,000 (($400 - $200) x 50% x 10,000 NFTs) as the multilevel ownership fee.
+·         And when the third buyer of an NFT resells it for $800, the issuer will receive an extra $2,000,000 (($800 - $200) x 50% x 10,000 NFTs) as the multilevel ownership fee.
+In total, the issuer has received $3,750,000 from the multilevel ownership and liquidity protection, with an extra $750,000 pending. This is 400% higher than a traditional INO.
+ 
+Transaction fee
+When a purchase is made on NFT.Protection, a 2.5% transaction fee is immediately applied. After the fee is applied, the seller will receive the remaining amount once the transaction is no longer under protection. If the seller charges a slippage fee, it will be calculated based on the remaining amount after the NFT.Protection transaction fee. For example, if the sale price is $100, the seller will be eligible for $97.5. If the seller charges a 10% slippage fee, they will receive $9.75 immediately, and the remaining $87.75 will be locked under the liquidity protection contract.
+ 
+The NFT.Protection fees are reimbursed in NFT.Protection tokens through the reimbursement staking smart contract, eliminating any costs for the seller.
+ 
 Cancelation fee
-If a buyer returns an NFT to the liquidity protection contract, the sale fee that was originally paid by the seller becomes a cancellation fee that is paid by the buyer. For example, if the sale price is $100 and the NFTmx fee is 2.5%, the buyer's liquidity protection will be $97.5. If the seller charges a 10% slippage fee, the buyer will receive a refund of $87.75. 
-The NFTmx fees are reimbursed in NFTmx tokens through the reimbursement staking smart contract, eliminating any costs for the buyer.
-
-
-Use of fees breakdown
-The fees generated from NFTmx are used as follows: 80% is used to buy NFTmx tokens, which increases the value of the token and decreases the total supply. 20% goes to Qwantum Finance Labs as a licensing fee for the NFTmx technology and to support the project.
-100% fee reimbursement
-NFTmx users have the option to receive 100% reimbursement for their gas and fees. To claim these reimbursements, users can use the reimbursement staking contract. To release the reimbursements, users must stake an equal amount of NFTmx tokens for one year, but they can withdraw partial amounts before the one year period is up. Any remaining balance will accumulate and can be claimed later. 
-For example, if a user spends over $1000 on gas and fees over the course of a year, they can be reimbursed for these costs at any time, even if the value of the NFTmx tokens has increased. The reimbursement staking contract allows users to receive these reimbursements for free and reduces the sale pressure on the secondary market. The rules for the reimbursement staking contract can be changed through DAO voting.
+If a buyer returns an NFT to the liquidity protection contract, the sale fee that was originally paid by the seller becomes a cancellation fee that is paid by the buyer. For example, if the sale price is $100 and the NFT.Protection fee is 2.5%, the buyer's liquidity protection will be $97.5. If the seller charges a 10% slippage fee, the buyer will receive a refund of $87.75.
+ 
+The NFT.Protection fees are reimbursed in NFT.Protection tokens through the reimbursement staking smart contract, eliminating any costs for the buyer.
+ 
+Use of fees Breakdown
+The fees generated from NFT.Protection are used as follows: 80% is used to buy NFT.Protection tokens, which increases the value of the token and decreases the total supply. 20% goes to Qwantum Finance Labs as a licensing fee for the NFT.Protection technology and to support the project.
+ 
+100% Fee Reimbursement
+NFT.Protection users have the option to receive 100% reimbursement for their gas and fees. To claim these reimbursements, users can use the reimbursement staking contract. To release the reimbursements, users must stake an equal amount of NFT.Protection tokens for one year, but they can withdraw partial amounts before the one year period is up. Any remaining balance will accumulate and can be claimed later.
+ 
+For example, if a user spends over $1000 on gas and fees over the course of a year, they can be reimbursed for these costs at any time, even if the value of the NFT.Protection tokens has increased. The reimbursement staking contract allows users to receive these reimbursements for free and reduces the sale pressure on the secondary market. The rules for the reimbursement staking contract can be changed through DAO voting.
+ 
 Regular P2P sales are FREE
-In addition to the innovative solutions offered by NFTmx, it also enables users to conduct standard peer-to-peer transactions (without liquidity protection) that are offered by other NFT marketplaces, such as OpenSea, Uniswap, and others, at no charge and with 0% fees.
+In addition to the innovative solutions offered by NFT.Protection, it also enables users to conduct standard peer-to-peer transactions (without liquidity protection) that are offered by other NFT marketplaces, such as OpenSea, Uniswap, and others, at no charge and with 0% fees.
+ 
+
+
+ 
+
+ 
+“Instead of being a drop in the opensea, create your own liquidity”
+- Yoda -
+ 
+ 
+
