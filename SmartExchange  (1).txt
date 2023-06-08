@@ -1,8 +1,9 @@
-﻿Smart.Exchange
 
 
 
 
+Smart.Exchange
+LAYER 2 VIRTUAL WALLET 
 
 
 
@@ -13,155 +14,127 @@
 
 
 
+  White Paper v5.3
 
 
 
+Overview
+SmartExchange is a web3 advanced platform that acts as a layer 2 virtual wallet, utilizing the established security of decentralized wallets like MetaMask and TrustWallet.
+SmartExchange's primary purpose is to allow users to optimize their multi-chain and cross-chain transactions, improving speed, cost, and risk mitigation.
+Additionally, SmartExchange offers virtual wallet holders the opportunity to generate passive income through its Arbitrage system and through its advanced AI Quantum market-making system.
 
 
+SmartExchange is a decentralized organization established by Qwantum Finance Labs and governed by a DAO community. In the early years, when cross chain solutions weren't not yet available, SmartExchange took on the challenge of creating the world's first decentralized cross-chain solution called SmartSwap. This groundbreaking platform enabled one-click cross-chain transactions between native tokens to native tokens on networks such as ETH, BNB, and Polygon.
+However, as other cross-chain platforms with centralized code moved faster and gained popularity, the decentralized advantage of SmartSwap became meaningless. Users prioritize speed and low costs over decentralization, even after experiencing billions of dollars in losses due to hacking events.
 
- Whitepaper
 
+Recognizing this reality, SmartSwap made a strategic pivot in its focus. Instead of solely improving its own decentralized cross-chain platform, the project aims to pioneer an umbrella infrastructure with a core solution that seeks to mitigate slippage and enhance liquidity for all existing multi-chain and cross-chain platforms. This approach aims to provide a more robust and efficient experience for all users.
 
 
+Why is the current cross chains has time delay ?
+Due to the growing number of blockchain ecosystems and cross-chain transactions, delays can occur as a result of measures taken to avoid 51% attacks and synchronize validators. This is especially noticeable when bridging transactions between different code language platforms like Ethereum, Bitcoin, Polkadot, Cosmos, and others, which can further extend waiting times.
+Why is the current DeFi P2P solution not working well?
+The main problem with the current peer-to-peer trading among users is that often these orders not only remain pending while waiting for a counterparty, but even when a counterparty is found, there may be remaining supply that remains pending due to the unlikelihood of a perfect match. This predicament creates a catch-22 situation, as traders are hesitant to be the first to place an order. Also, if an order has leftovers, that means it’s need to be matched with multiple counterparties, resulting in additional gas costs. This undermines the cost-effectiveness of the entire decentralized P2P concept and restricts the participation of market makers as seen in centralized exchanges.
 
 
+The future of defi
 
+We predict that multi-chain and cross-chain digital assets, including future CBDCs, digital stocks, and other new assets, will dominate the future trading landscape, eventually offering fast P2P transactions without slippage.
+To lay the groundwork for this possibility, we have designed SmartExchange to become the first virtual wallet infrastructure umbrella for arbitrage and market markers network, aiming to improve Defi protocols slippage and speed.
 
 
-SmartExchange is a layer zero cross chain based on decentralized bridges that validate by  unlimited validators decentralized community. 
+Virtual wallets 
+Self-custody holding 
+Smart Exchange users can store their funds in vaults protected by the user's wallet security, using the same private key that ensures self-custody of the funds.
+Self-custody market maker 
+Smart Exchange's virtual wallets are specifically designed to function as a self-custody market-making solution. With these wallets, users can place an unlimited number of Funtom swap orders across various markets without the need to spend gas or lock any funds beforehand. This innovative approach not only enables market makers to maximize their profits when compared to other alternatives but also significantly reduces the swap costs for SmartExchange users in comparison to AMM pools.
 
+Self-custody Arbitrage
+Smart Exchange's virtual wallets function automatically as a short-term arbitrage system, offering swift solutions for cross-chain users.
 
-SmartExchange is a decentralized organization managed by a DAO community and created by Qonetum Finance early 2017. The first published pending patent was in 2018 when there was no DeFi awareness. At this time, investors did not even know what slippage was so the solution pre-dated the problem. Now, with the emergence of AMMs and abundance of cross-chain hacks, Smart.Exchange solves a known need in the industry.  
+Self-custody rewards 
+Users who hold their preferred type of tokens in their virtual wallets are automatically rewarded with the same tokens when the arbitrage system generates profits from expedited orders. There is no need to lock or stack any funds, and users have the ability to withdraw at any time.
 
 
 
 
-ive uniqe solutions are running on top of the SmartExchange layer zero protocol
+Arbitrage Solution for Expedited Speed
+SmartExchange serves as an intermediary smart contract for cross-chain swaps, facilitating expedited order processing while mitigating exposure risks associated with cross-chain protocols. 
+When users initiate cross-chain swap orders through SmartExchange, their funds are directed to a third-party cross-chain protocol. However, users instantly receive the destination tokens from the arbitrage system within seconds, while the original tokens that were expected from the third-party protocol are returned to the virtual wallet community.
+This arbitrage solution allows the virtual wallet community to temporarily lend tokens to cross-chain users for a few minutes in exchange for receiving the same type of tokens back, along with additional expedite fees. The entire arbitrage process occurs automatically without requiring any action from anyone.Even if a specific virtual wallet's funds haven't been used for a particular expedited order, that wallet will still be rewarded pro rata from the expedite fee simply because it is holding the same token.
 
+Example 
+Bob wants to expedite a cross chain swap 1 ETH (Ethereum) for 150 MATIC (Polygon) using SmartExchange.
+Bob sends his 1 ETH to SmartExchange's intermediate smart contract.
+SmartExchange's intermediate smart contract sends slightly less than 150 MATIC to account for the fee, so Bob receives slightly less than 150 MATIC.
+The SmartExchange's intermediate smart contract then sends the 1 ETH directly to the third-party cross-chain provider along with the SmartExchange's intermediate smart contract address as the receiver of the 150 MATIC.
+After the waiting time is over and the 3rd party cross-chain finishes the process of the original transaction, the SmartExchange's intermediate smart contract receives the full 150 MATIC tokens directly from the third-party cross-chain provider.
+The extra MATIC profits from the expedite is distributed as reward prorata between all the virtual wallets that hold MATIC.
 
-1. Smartextenstion 
-2. SmartPayments
-3. SmartWallet
-4. SmartBridge
-5. SmartSwap
 
+Native token instead of wrap token
+Many cross-chain exchanges offer wrapped tokens on the destination chain instead of native tokens. which typically requires the receiver to perform an additional swap or to unwrap the token However, by using an expedited order via SwapExchange, users can receive the end token directly, saving the time and effort required for an extra swap. The SmartExchange contract takes care of the second swap automatically on the destination chain and delivers the tokens back to the virtual wallet community.
 
 
 
+1-Click Cross-Chain 
+SmartExchange enables seamless cross-chain token swaps with just one click. The intermediate contract of SmartExchange seamlessly interacts with cross-chain smart contracts to deliver the final tokens directly to the user's original wallet on the destination chain. In the case of non-EVM to EVM swaps, users may need to specify the receiving wallet for the destination chain during the initial order.
 
 
-SmartExtension
-SmartExtension simplifies the process of accessing decentralized finance (DeFi) protocols and provides users with a seamless experience. With SmartExtension installed, users can easily connect their wallets to DeFi platforms like decentralized exchanges (DEX) and take advantage of the alternative and lucrative offers and prices that are displayed. The extension is designed to trigger these offers and prices automatically, so users don't have to spend time searching for the best deals. This makes it an indispensable tool for anyone interested in utilizing DeFi platforms and maximizing their returns.
-SmartExtension is also user-friendly, with an intuitive interface that makes it easy for even novice users to navigate. The extension is customizable, allowing users to adjust the settings and preferences to their liking. This makes it possible for users to optimize their DeFi experience according to their individual needs and goals. With SmartExtension, users can stay on top of the rapidly evolving DeFi market and make informed decisions with ease.
 
+Risk disclosure 
+SmartExchange acts as a layer on top of different third-party cross-chain providers. Some providers are decentralized and offer better security, while others have centralized features that make them more vulnerable to attacks. During an expedited transaction, virtual wallet holders take the risk of the third-party cross-chain provider being hacked while waiting for airbrage transaction to be completed. This can lead to delays or even a total loss of the transaction, especially if the cross-chain provider goes out of operation with no chance of recovery.
 
 
+Market Maker Solution for Cheaper Swaps
 
+The virtual wallet is designed as a market-making tool, allowing for the placement of unlimited quantum limit orders without the need to move or lock any funds, or pay any gas costs. Additionally, the virtual wallet supports matching one-to-many orders without incurring any extra gas expenses. 
+By placing simultaneous unlimited orders across multiple markets and decentralized exchanges, the virtual wallet can capture various opportunities and generate a high ROI that can be more cost-effective than centralized exchanges.
+Such a solution benefits not only the holders of virtual wallets but also enables an efficient decentralized P2P network, which is crucial for reducing the costs associated with swap slippage often seen in current AMMs.
 
 
 
+Uniswap V3 
+Uniswap made a significant protocol change by transitioning from an AMM model to a decentralized order book limit order style. This update allows market makers to choose the specific range where they want to deploy their funds, resulting in reduced slippage for users and minimizing losses for the market makers. However, this change requires market makers to actively monitor the market and adjust their limit orders when the token price moves outside of the chosen range.
 
-The SmartExtension can also be utilized to connect to web2 platforms, such as Twitter, and transform them into web3 platforms. This enables users to participate in initial bond offerings (IBO) or sales of non-fungible tokens (NFTs) on these platforms without having to leave the platform
-Read more about SmartExtension 
 
+AI-Driven Market Maker
+SmartExchange provides an advanced AI tool for passive managing market maker trades across a wide range of tokens. This tool optimizes the buying and selling ranges to maximize the return on investment. For example, a market maker can choose to trade with 1, 5, 10, or even more types of tokens. The AI system is capable of dynamically adjusting the limit buy and sell orders based on real-time data, ensuring that market makers can maximize their profits effectively.
 
+User experience 
+SmartExchange functions as both a smartphone app and a web browser extension, serving as a comprehensive platform for users to engage with various blockchain opportunities.
+When a user is ready to conduct a transaction on a DeFi protocol, SmartExchange identifies and captures the transaction, providing alternative options that are faster or more cost-effective.
 
 
-SmartPayment
-SmartPayment is a PayPal-like solution designed to enable users to interact with decentralized applications (dApps) on different blockchains without the need to exchange their native tokens for the foreign blockchain's native token. This means that users can pay with any digital asset they have, such as cryptocurrency, NFTs, or digital government money, while the dApp recipient receives the currency they require and request. For instance, the SmartPayment solution allows users who hold ETH to use ETH to support projects on the Binance Smart Chain (BSC), and these projects can receive BNB instead of ETH.
-The SmartPayment solution eliminates the limitations faced by projects that want to host their contract on a specific blockchain while still taking advantage of the benefits offered by more popular chains. This helps to create a more inclusive and accessible ecosystem for dApps and users alike.
+Alternative offers
+When users connect their wallets to DeFi platforms, such as DEXs , SmartExchange is triggered and presents the user with alternative and profitable offers. Users have the option to choose between faster expedited transactions or more cost-effective opportunities available in P2P or P2DEX. 
 
 
-Read more about SmartPayment 
-
-
-SmartWallet
-The SmartWallet solution transforms any wallet into an interoperable payment platform instantly. With SmartWallet, users can make payments using any token, while the recipient can receive their preferred token without any additional steps. This provides a seamless and convenient payment experience for both parties.
-
-
-Read more about SmartWallet 
-
-
-SMART Bridge
-The SmartBridge solution enables the creation of a decentralized, cross-chain bridge for any token, such as SoulBounds or decentralized social media, in a matter of seconds. This cutting-edge technology is accessible to any projects and their users, providing a seamless and efficient way to connect different blockchain networks and facilitate the exchange of tokens. The SmartBridge solution helps to break down barriers between different blockchain networks and promote greater interoperability and collaboration within the decentralized ecosystem
-
-
-The owner of the token can assume control over the bridge that has been created through the use of a smart contract, becoming the master validator for the bridge. This means that no transactions will occur without the project's approval. In other words, instead of relying on third-party validators, the project has the power to control and act as the master validator for its own token bridge, in addition to the validators provided by other projects in the community
-
-
-Read more about SmartBridge 
-
-
-
-
-
-
-
-
-SmartSwap
-SmartSwap is a decentralized exchange that provides multichain swaps with a one-click and slippage-free experience. It acts as a decentralized layer ZERO with access to liquidity from all market participants, including centralized exchanges and OTC traders.
-
-
-SmartSwap uses a zero volatility patent pending method that prevents slippage and reimburses users for fees and gas costs. Instead of choosing the value of a token, users choose the USD face value of the tokens they want to swap, and the exchange prices the tokens based on the average market price. 
-
-
-SmartSwap also allows for one-click cross-chain swaps between different blockchain networks, without a single point of failure. Currently, SmartSwap supports swaps between BNB, ETH, and Matic, and has the ability to work with any EVM blockchain.
-
-
-Read more about SmartSwap 
-
-
-
+One-Stop Shop
+SmartExchange offers a user-friendly web3-based interface that is easily navigable, even for new users. The platform is highly customizable, allowing users to adjust settings and preferences according to their preferences. This level of customization enables users to optimize their DeFi experience based on their individual needs and goals.
+Additionally, SmartExchange provides shortcuts to favorite links, alerts, and various opportunities such as launch-pads, scale-pads, NFTs, staking, airdrops, strategy analysis, index tracking, educational, portfolio tracking, and access for all crypto apps from the google play marketplace.
 
 
 
 Transaction fee 
-Fees are incurred for successful swaps on Smart exchange products. The total fee for smartswap  is 0.30% , smart extenstion is 0.1% , smart wallet 0.1% , smart Bridge 0%
+Fees are incurred for successful swaps on SmartExchange products. The total fee for a swap is 0.30%, and for expedited swaps, it's 0.3%.
+All fees can be changed through voting by the $SMART DAO community.
+The $SMART fees are reimbursed in $SMART tokens via the reimbursement staking contract, eliminating any costs for the seller.
 
-
-All fees can be changed via voting bt the $SMART DAO community.
-The $SMART fees are reimbursed in $SMART tokens through the reimbursement staking  csmart ontract, eliminating any costs for the seller.
-Use of fees breakdown
-The fees generated from $SMART are used as follows: 80% is used to buy $SMART tokens, which increases the value of the token and decreases the total supply. 20% goes to Qwantum Finance Labs as a licensing fee for the $SMART technology and to support the project.
 100% fee reimbursement
-$SMART users have the option to receive 100% reimbursement for their gas and fees. To claim these reimbursements, users can use the reimbursement staking contract. To release the reimbursements, users must stake an equal amount of $SMART tokens for one year, but they can withdraw partial amounts before the one year period is up. Any remaining balance will accumulate and can be claimed later. 
-For example, if a user spends over $1000 on gas and fees over the course of a year, they can be reimbursed for these costs at any time, even if the value of the $SMART tokens has increased. The reimbursement staking contract allows users to receive these reimbursements for free and reduces the sale pressure on the secondary market. The rules for the reimbursement staking contract can be changed through DAO voting.
-Tokenomics
-Digital Royalty Token
-The $SMART tokens are designed to act as digital royalty tokens instruments tied and correlated to the business performance of the $SMART project. To achieve this, the smart contract uses 80% of the overall fees from the project to buy $SMART digital royalty tokens from the market and place them in a zero address, effectively "burning" the tokens and reducing the total supply. This process occurs in real-time and helps to increase the value of the remaining $SMART digital royalty tokens. 
-Read move about Digital Royalty Tokens 
-Pre-mint
-The $SMART digital royalty token supply does not include a founders' allocation or any reserves for the team or development. Instead, the supply is focused solely on adding value and liquidity to the ecosystem through value-added structures.
+$SMART users have the option to receive 100% reimbursement for their gas and fees. To claim these reimbursements, users can use the reimbursement staking contract. To release the reimbursements, users must stake an equal amount of $SMART tokens for one year, but they can withdraw partial amounts before the one-year period is up. Any remaining balance will accumulate and can be claimed later.
+
+For example, if a user spends over $1000 on gas and fees over the course of a year, they can be reimbursed for these costs at any time, even if the value of the $SMART tokens has increased. The reimbursement staking contract allows users to receive these reimbursements for free and reduces the selling pressure on the secondary market. The rules for the reimbursement staking contract can be changed through DAO voting.
+
+Use of fees breakdown
+Swap fees are used as follows: 80% is used to buyback $SMART tokens, which increases the value of the token and decreases the total supply. 20% goes to Qwantum Finance Labs as a licensing fee for the SmartExcange technology and to support the project.
+
+Expedite fees are allocated as follows: 80% is distributed pro rata among the virtual wallet holders, while 20% is designated for Qwantum Finance Labs as a licensing fee for the SmartExchange technology and to support the project.
+
+The spread resulting from market making belongs 100% to the virtual wallet that executes the market making order.
 
 
-Total pre-mint:                                 3,812,290,000[1]
-
-
-
-
-$SMART price
-Baseline Pre-sale via SAFT:                 $0.01 
-Baseline Public sale via IBO:                $0.01
-Listing price:                                 $0.02
-
-
-Post minting
-After the initial minting, $SMART tokens can be minted based on equal value being added to the ecosystem. This minting is intended to encourage use of the platform through the reimbursement $SMART contract and the Router, which helps to increase liquidity and reduce pressure on sales.
-
-
-
-
-Future split
-Since $SMART has the potential to grow in value significantly, it may become difficult for some investors to justify buying them at their current face value. In this case, the DAO may decide to split the tokens, giving users an equal number of $SMART tokens with a face value of $0.01. This would not affect the total value of the investors' holdings, but the number of tokens in their wallets would increase proportionally to reflect the split. This split is meant to make it easier for investors to buy $SMART and participate in the ecosystem.
-
-
-Example
-1. An investor holds 100 $SMART with a face value of $1000. The investor’s total holdings equal $100,000 (100 x $1,000).
-2. $SMART announces a split
-3. $SMART splits and distributes, to $SMART holders, $SMART proportionate to the new price.
-4. The new price/face value is $0.01. The investor now holds 10,000,000 NFTmx, still valued at $100,000 (10,000,000 x $0.01).
- 
- 
-
+Free Stablecoin cross chain 
+To increase popularity, SmartExchange will leverage the virtual wallet network to offer users the ability to swap any P2P cross-chain stablecoin with zero slippage and zero fees. Virtual wallet holders will still be compensated for this free service through dVoucher rewards.
 
 
