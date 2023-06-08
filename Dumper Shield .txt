@@ -1,180 +1,85 @@
-﻿Dumper Shield 
+Dumper Shield
 
+Traditionally, those who receive tokens at a discount have hurt communities by selling tokens at a discount, also known as "dumping" tokens on the community. To address this issue, projects began using vesting models that lock discounted tokens for a period of time, often with cliffs or other distribution schedules, which usually end with a large distribution at the end of the vesting period. However, this model created a race to the bottom, leaving investors asking whether they should hold out, hoping everyone else will do the same, or dump and potentially beat other dumpers despite losing to slippage.
+To address this dilemma, the Dumper Shield was developed as a dynamic vesting model designed to protect the community by removing exposure to the dumping dilemma. Its goal is to drive liquidity safely to token holders during the vesting period, with the aim of reducing sell pressure once the vesting period ends.
 
-The world's first decentralized exchange for vesting tokens
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Current market overview 
-The current cryptocurrency market is known for its volatility and high-risk investments. One of the major risks in the market is token dumping, where individuals receive tokens at a discount and then sell them on the market at a lower price. This can lead to a decrease in the token's market value and can harm the project's community and ecosystem.
-To address this issue, many projects have implemented vesting solutions, where tokens are locked for a certain period of time and then gradually released to the market. However, these solutions can still lead to a race to the bottom, as many investors tend to sell their tokens as soon as they become available, leading to a decrease in the token's market value.
-
-
-The Dumper Shield
-Dumper Shield is a new tool designed to protect crypto communities from token dumping. The Dumper Shield is intended to reduce the risk of token dumping by utilizing new quantum finance solutions allowing investors to access liquidity during the vesting period without affecting the token market price, with the goal of reducing selling pressure and maintaining token market price when the vesting period ends.
-The Dumper Shield offers three options for liquidity engagement: 
-1. Transfer 
-2. Decentralized OTC 
-3.  Liquidity Gateway
+The Dumper Shield allows investors three options to engage with liquidity during the vesting period: 
+Transfer 
+Decentralized OTC 
+Gateway
 Transfer  
-The transfer function enables users to send tokens to a specific wallet address or multiple addresses, similar to a private peer-to-peer (P2P) transaction. Tokens can be transferred for free or in exchange for payment using native tokens such as ETH or BNB. Recipients of tokens through transfer are subject to the same vesting terms and limitations that apply to the original position class of the tokens being transferred.
-
-
-
+The transfer function works similarly to a private peer-to-peer transaction, allowing users to send tokens to a specific wallet address or set of wallet addresses. These transfers can be made for free or in exchange for receiving payment using native tokens like ETH or BNB. Receivers of tokens through transfer are subject to the same vesting terms that apply to the user transferring the tokens.
 
 Decentralized OTC
-The decentralized over-the-counter (dOTC) marketplace allows users to securely list and transfer tokens to other users without knowing their identities. Users can list a specific amount of tokens for sale and set any asking price whether it be relative or non-relative to the token's current market value.
-Sales can take place as a fixed price or adjustable based on the token's current market value with a percentage above or below it. Buyers can purchase all or a portion of the listed tokens. Any remaining tokens will remain listed for the next buyer.
-When buyers trade for tokens through the dOTC, they are subject to the same vesting terms that apply to the seller. This means that when a new buyer purchases those tokens, a smart contract automatically creates a new vault for the tokens, applying the same vesting terms and limitations that apply to the original position class of the tokens being traded for.
+The decentralized OTC (over-the-counter) system allows users to list and transfer tokens to other users anonymously, without any pre-engagement and without negatively impacting the project's market price. Buyers who trade for tokens through OTC are subject to the same vesting terms as the seller. Consequently, when a new buyer trades for tokens, a smart contract is automatically triggered to create a new vault with the tokens, receiving the same Dumper Shield terms.
+
+How it works 
+Users can list tokens for sale or place bids to buy, indicating the desired amount and price. The ask or bid price can be fixed or adjustable based on the token's market value. Counterparties have the option to accept offers fully or partially, and any remaining amount will be automatically listed for future buyers without the seller or buyer needing to take any action. Payments are processed directly to the seller's wallet, outside of the Dumper Shield.
 
 
-Example 
-Alice who has a large amount of tokens from a project that uses the Dumper Shield. These tokens were originally allocated to the first position class, which has a 6-month vesting period. 
-Alice wants to sell some of her tokens on the dOTC marketplace. She lists 100,000 tokens for sale at a price of 0.001 ETH each, which is currently below the token's current market value,  after 1 month, Bob sees her listing and decides to purchase 50,000 tokens, paying 50 ETH in total.
-When the transaction is complete, a smart contract automatically creates a new vault for Bob's 5,000 tokens. The smart contract applies the same vesting terms and limitations that apply to the original position class of the tokens which is the first position class with a 6-month vesting period. But since Bob purchase the tokens after 1 month of listing, he will have the remaining 5 months of the vesting period before the tokens will be fully vested and released from the dumper shield. 
-The remaining 5,000 tokens that Alice had listed for sale will remain available for other buyers on the dOTC marketplace and will be subject to the same vesting terms and limitations that apply to the original position class.
+Asks vs bids 
+The Dumper Shield is a feature that enables sellers to place ask orders and buyers to place bid orders, creating a marketplace for the buying and selling of tokens. Sellers can specify the amount of tokens they wish to sell and the price they are asking for, while buyers can indicate the amount they are willing to buy and the price they are willing to pay. This allows for a more efficient and transparent way of trading, as buyers and sellers can directly interact with each other without the need for intermediaries or any personal engagement over social media chat. 
+Virtual vaults 
+Buyers can store their funds in virtual secure vaults and make unlimited bid orders without actually locking their funds or paying any gas costs. Once an order gets accepted, the funds from the vault will be used, and other bids based on those funds will be automatically deleted. This concept allows buyers to place many different bids, even with a small amount of funds, without having to worry about gas fees or locking their funds for a long period. The virtual secure vault is based on the user's wallet security, and the same private key that ensures self-custody of the funds also ensures that the buyers' funds are kept safe and secure until they are needed for a transaction. 
+ 
+
+
+Farming
+The vaults are designed with built-in farming without any lock-in period required. Buyers who hold funds in their vaults will be incentivized by the Dumper Shield with APY rewards, which are paid out block by block, regularly, based on the amount of funds held in the vault. This feature encourages buyers to hold onto their funds and participate actively in the trading environment, creating a more stable and sustainable market for everyone involved.
 
 
 Liquidity Gateway
-The  Liquidity Gateway allows users to offer tokens at a discounted price over their current market value. The discount is determined through DAO voting among all dumper shield holders and aims to attract swap providers (SPs) to swap the tokens behind the Gateway for liquidity in the secondary market.
-To keep the token in the secondary market from the risk of dumping, the Gateway monitors the token's appreciation over the previous 24-hour period. Based on this, it allows Swap Providers to buy a daily limited amount of discount tokens from the dumper shield at a discount and sell them into the secondary market with a limitation of the previous day's appreciation by a maximum of 50%. This means the Gateway will not offer a large amount of discount tokens if there is a risk that that amount can hurt the value of the token price more than 50% over the previous day's appreciation. If there is a day when the token price went down compared to the day before, the gateway will not allow any discount tokens to be bought by swap providers.
+The Liquidity Gateway system is designed to reduce the number of OTC orders by importing liquidity from the secondary market without negatively impacting the token's appreciation. 
+To prevent excessive dumping, the Liquidity Gateway persistently monitors the previous day's token appreciation to determine the maximum limit on the number of tokens that can be sold during a given time period based on a dynamic appreciation limit. The goal of the Liquidity Gateway is to decrease the sell pressure from behind the dumper shield before the vesting period ends, while ensuring that the liquidity flowing into the OTC market does not reduce the token's last appreciation by more than 50%. This way, each day will have a small sell pressure while the token continues to appreciate.
 
 
 Example 
-Let's say the current market value of XYZ token is $1 and it has appreciated by 15% in the previous 24 hours. Through the  Liquidity Gateway, users can offer XYZ tokens at a discounted price through a DAO voting among all other dumper shield holders. Let's say the final discounted price voted is 10%. This would attract swap providers to buy these tokens at a discounted price of $0.90 and sell them in the secondary market for $1.15.
-The gateway monitors the appreciation of XYZ token and based on the previous 24-hours, it would allow swap providers to buy and sell tokens at a maximum of 50% of the previous day's appreciation. So, in this case, the swap providers would be able to buy and sell a limited amount of tokens that can drop the secondary market price to a minimum of $1.07
-However, if the token price went down compared to the previous day, the gateway would not offer any discount tokens to be bought by swap providers, to avoid the token price crashing. 
+
+Let's say the token's current price is $10 and it appreciates by 10% to $11. 
+The Liquidity Gateway system determines that the maximum limit on the number of tokens that can be sold to the secondary market is 10,000 tokens, which would reduce the token value to $10.5.
+The Liquidity Gateway system operates like a flash loan concept, buying the tokens from the users behind the dumper shield and selling them on the secondary market subject to the calculated limit amount.
 
 
 
 
-Refund Policy
-SwapProviders who purchase discounted tokens deposit native tokens or stablecoins as collateral. In exchange, they receive the tokens that they can then sell in the secondary market. The SP also has the option to return the tokens within 24 hours for a full refund of their collateral. After 24 hours, the native tokens or stablecoins are distributed pro-rata directly to the investors' wallets that utilized the Gateway. This means that for 24 hours, the SP does not have any risk in participating as they can return the tokens to the smart contract for a full refund.
-
-
-Example 
-Let's say a Swap Provider (SP) wants to purchase 1000 XYZ tokens at a discounted price of 10% through the Liquidity Gateway. The current market value of XYZ token is $1. The SP would deposit $900 worth of native tokens or stablecoins as collateral. In exchange, they receive 1000 XYZ tokens that they can then sell in the secondary market for a profit.
-The SP has the option to return the 1000 XYZ tokens within 24 hours for a full refund of their collateral, $900. After 24 hours, if the SP chooses not to return the tokens, the collateral, $900, would be distributed pro-rata directly to the investors' wallets that utilized the Gateway. This means that for 24 hours, the SP does not have any risk in participating as they can return the tokens to the smart contract for a full refund.
-
-
-
-
-Gateway trigger
-If no Swap Providers participate in the Liquidity Gateway for more than 24 hours, the smart contract will be unable to determine the token's market price without a trigger that can be activated by a swap provider or the dumper shield holders. As a result, any new swap provider order will have to wait for 24 hours for the contract to be able to calculate the number of tokens that can be released to them based on the token's price appreciation from the previous day.
-
-
-
-
-
-
-Qunatum finance
-The current market presents a problem in the form of the game theory prisoner's dilemma for investors holding vesting tokens. They must decide whether to sell their tokens at the end of the vesting period, assuming that other investors will do the same, or to hold onto them, assuming that other investors will do the same. The Dumper Shield addresses this issue by utilizing quantum finance solutions that allow vesting tokens to stay locked from trading on the secondary market but simultaneously  still be accessible for trading on the secondary market. This creates a dual position of being locked from the secondary market and still being accessible for trading on the secondary market. This is done by giving holders the power to wave the vesting period and by allowing indirectly access to secondary market liquidity during the vesting period. Such quantum solutions may encourage large holders to maintain their interest in keeping their tokens behind the Dumper Shield for a longer vesting period of time and engage with liquidity indirectly via the Gateway without significant selling pressure and the risk of dumping.
-
-
-Example 
-Alice is an investor in a new cryptocurrency project and she receives 1,000 tokens as part of a vesting program. According to the vesting schedule, she will only be able to access and trade her tokens in the secondary market after 6 months. However, with the Dumper Shield's quantum finance solution, Alice and other token holders behind the dumper shield can change the vesting period to 3 months through a voting process.
-Moreover, she can also access liquidity during the vesting period by listing her tokens on the Dumper Shield's marketplace and trading them with other users, while they are still locked from trading on the secondary market. This means that Alice can still sell her tokens to other users on the Dumper Shield's marketplace before the end of the vesting period, without affecting the token's market price.
-Additionally, as an investor in the Dumper Shield, Alice can vote on the discount rate for the liquidity gateway, which is intended to attract swap providers to swap the tokens behind the gateway for liquidity in the secondary market, with a limitation of the previous day's appreciation by a maximum of 50%.
-This means that Alice can access liquidity during the vesting period without significant selling pressure and dumping risk, while still being able to change the vesting period and vote on the discount rate. This encourages large holders like Alice to maintain their interest in keeping their tokens behind the Dumper Shield for a longer period of time.
+ScalePad liquidity 
+During the launch of their PDO offers, projects can choose to use some or all of their proceeds to buyback allocations from existing investors who are behind the Dumper Shield, using the Liquidity Gateway. This can provide an additional source of liquidity, helping to reduce sell pressure before the vesting period expires.
 
 
 DAO Based
-Users behind the Dumper Shield have the ability to vote on changes to the remaining vesting time of the Dumper Shield and the amount of discount offered to swap providers through the gateway. 
-
-
-
+Users who are behind the dumper shield can vote to increase or decrease the remaining vesting time of the shield. There is a risk that once the Dumper Shield period concludes, there will be massive dumping, which can negatively impact the token value. To prevent this from happening, large investors are incentivized to extend the Dumper Shield, which enables them to engage with a safer amount of liquidity through the Gateway, up to a 50% depreciation limit, without destroying the token's value. Facing a 99.9% dump could result in significant losses, which is why daily access to liquidity and a reasonable depreciation limit is more appealing to large investors.
 
 Security
-
-
-The Dumper Shield is a hive of secured vaults that are protected by individual private keys. Each key is associated with a specific user's wallet, ensuring that only the owner of the wallet has access to the corresponding vault.
-
-
+The Dumper Shield is a hive of vaults secured by separate private keys. Each private key corresponds and belongs to the specific user’s wallet. The hive security method means no one has access to the vault besides the user’s wallet.
 Dumper Shield Positions
-The Dumper Shield allows for multiple tiers of  Liquidity Gateway for different investor groups. These levels can be used to distinguish between investors who are purchasing tokens and those who are earning them through airdrop methods. By prioritizing the liquidity access for the first level investors, it ensures that they are not affected by the presence of holders in lower levels.
+The Dumper Shield consists of three levels of positions. These positions can be used to differentiate between investors and those who may earn the token through an airdrop or reward. Each position is prioritized above the positions below it when engaging with liquidity via the Gateway.
 
 
-First position vs other positions 
-The Dumper Shield has three levels of position: first, second, and third. The position determines the order in which liquidity is disbursed via the Gateway. Projects can place users who purchase their tokens as first position, giving them first access to available liquidity from the Gateway. Second position is more suitable for users who gain their tokens as incentive rewards, as they may have a risk of dumping and therefore have access to available liquidity after the first class has finished pending. The third position is suitable for users who receive their tokens from a free airdrop and may have a higher likelihood of becoming dumpers, and therefore will have access to liquidity after the first and second positions have been satisfied first.
-The first position class has a variable vesting period, which can be changed via voting by the holders of the first position. The second and third positions, which carry a higher risk of dumping, have an infinite vesting period, meaning that the tokens will not be released to the free market and can only be traded on secondary market liquidity through the Gateway.
-All positions have the same access to the dOTC to sell their tokens at any price, while it is disclosed to future buyers what position those tokens belong to. Once a new buyer from the dOTC buys any of those tokens, a new vault will be created for those buyers with the same terms and limitations that applied to the seller's original position class.
+First position vs second position vs third position
+The Dumper Shield comprises three classes of positions: 1st, 2nd, and 3rd. The position determines the order in which liquidity from the Gateway is disbursed among the positions. Once there are no holders on the position above, the liquidity flows to the next position, all the way to the last.
+While the first position may have a variable vesting period based on voting, the second and third positions have an infinite vesting period. Tokens always remain behind the Dumper Shield but are still available to engage with liquidity via the OTC and through the Gateway.
+For example, Qwantum Finance Labs uses the first position to place investors who actually paid to purchase tokens, while the second position is used to place investors who teleport their positions from other Qwantum Finance Labs projects. The last position is used for placing users who receive tokens for free as rewards or airdrops. This order makes sense because users who receive free tokens may have different selling behavior than investors who bought the tokens.
+That being said, each project can decide how to utilize these three positions according to their specific needs.
 
 
-Example 
-Let's say a new project called "Project X" is launching its initial DEX offering (IDO) using the Dumper Shield. They decide to allocate tokens as follows:
-* 50% of tokens to first position holders, who will have a variable vesting period of 6 months. These tokens will be available to trade on the dOTC and on the Gateway's secondary market liquidity immediately after the IDO.
-* 30% of tokens to second position holders, who will have an infinite vesting period.  These tokens will be available to trade on the dOTC immediately but only be available to trade on the Gateway's secondary market liquidity after the first position holders' vesting period has ended.
-* 20% of tokens to third position holders, who will also have an infinite vesting period. These tokens will be available to trade on the dOTC immediately but only be available to trade on the Gateway's secondary market liquidity after the second position holders' vesting period has ended.
-In this example, the project is trying to incentivize long-term holders by allocating the majority of tokens to the first position holders, who will have the ability to trade their tokens on the secondary market immediately. They are also trying to prevent potential dumpers by allocating tokens to the second and third positions with infinite vesting periods, meaning that these holders will not be able to trade their tokens on the secondary market directly.
-Once the project is launched and the tokens are allocated, any investor can buy or sell those tokens on the dOTC, and the buyer will have the same vesting period and limitations as the original position class that the seller had.
+Dumper Shield Position Examples
+
+1st position supply 10,000 tokens 
+2nd position supply 5,000 tokens
+3rd position supply 2,000 tokens 
+Day 1 the gateway determines 6,000 worth of tokens are available
+Day 2 the gateway determines additional 8,000 worth of tokens are available
+Day 3 the gateway determines additional 1,000 worth of tokens are available
+In day 1,  the 6,000 token liquidity available will be used to buyout orders in the 1st position. Ordres in 2nd and 3rd positions remain pending
+In day 2,  the 9,000 token liquidity available will be used to buyout the remaining 2,000 orders in the 1st position, and the 5,000 tokens liquidity available leftover will be used to buyout the 5,000 orders in the 2st position. Ordres in 3rd positions remain pending.
+In day 3,  the 1,000 token liquidity available will be used to buyout the partia of the  2,000 orders in the 3st position, and 1,000 orders on 3rd positions remain pending.
+
+
+
+
+
+
+
+
+
