@@ -1,7 +1,3 @@
-
-
-
-
 Smart.Exchange
 LAYER 2 VIRTUAL WALLET 
 
@@ -13,8 +9,6 @@ LAYER 2 VIRTUAL WALLET
 
 
 
-
-  White Paper v5.3
 
 
 
