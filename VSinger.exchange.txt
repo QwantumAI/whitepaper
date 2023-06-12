@@ -1,4 +1,4 @@
-﻿Web3 Virtual Singers 
+Web3 Virtual Singers 
 Music based AI
 
 
@@ -16,16 +16,6 @@ Music based AI
 
 
 
-
-
-
-
-
-
-
-
- Whitepaper v1.0
- Logo: VSinger.exchnage
 
 
 
@@ -350,64 +340,6 @@ The VTube.exhange fees are reimbursed in VSX tokens through the reimbursement st
 
 Use of fees Breakdown
 The fees generated from VTube.exhange are used as follows: 80% is used to buy VSX tokens, which increases the value of the token and decreases the total supply. 20% goes to Qwantum Finance Labs as a licensing fee for the VTube.exhange technology and to support the project.
-
-
-100% fee reimbursement
-VTube.exhange users have the option to receive 100% reimbursement for their gas and fees. To claim these reimbursements, users can use the reimbursement staking contract. To release the reimbursements, users must stake an equal amount of VSX tokens for one year, but they can withdraw partial amounts before the one year period is up. Any remaining balance will accumulate and can be claimed later. 
-
-
-For example, if a user spends over $1000 on gas and fees over the course of a year, they can be reimbursed for these costs at any time, even if the value of the VSX tokens has increased. The reimbursement staking contract allows users to receive these reimbursements for free and reduces the sale pressure on the secondary market. The rules for the reimbursement staking contract can be changed through DAO voting.
-
-
-Licensing
-Qwantum Finance Labs' main go-to-market strategy is a B2B2C model, in which potential partners can apply for white label licensing to benefit from fees and their own branding. This approach is meant to prevent competition from copycat projects and allow the company to focus on end users without having to spend a large amount of time and budget on them.
-Tokenomics
-Digital Royalty Token
-The VSX tokens are designed to act as digital royalty tokens (DRT) instrument tied and correlated to the business performance of the VTube.exhange project. To achieve this, the smart contract uses 80% of the overall fees from the project to buy VSX digital royalty tokens from the market and place them in a zero address, effectively "burning" the tokens and reducing the total supply. This process occurs in real-time and helps to increase the value of the remaining VSX digital royalty tokens. 
-Digital Royalty Token vs simple tokens
-Digital Royalty Tokens (DRT ) are different from regular tokens in that they have an underlying value that is derived from the income stream of a project. This means that the value of DRT tokens is not solely based on speculation, like regular tokens often are. Instead, the value of DRT tokens is based on the real-time traction and success of the project they represent.
-As a result, DRT tokens may be more resistant to market downturns than regular tokens. Even when the market is crashing and the value of other tokens based on speculation is decreasing, DRT tokens may still hold value because they have a potential return on investment based on their proven income stream. Buyers may be attracted to DRT tokens in a down market because they see the potential for the value of the token to increase based on the project's performance.
-Pre-mint
-The VSX digital royalty token supply does not include a founders' allocation or any reserves for the team or development. Instead, the supply is focused solely on adding value and liquidity to the ecosystem through value-added structures.
-
-
-
-
-Total pre-mint:                                 10,000,000,000
-Breakdown allocation
-* Pre-sale via SAFT                        2,000,000,000
-* Public sale via IBO                        100,000,000
-* Post-launch via LP insure                25,000,000            (Uniswap, sushiswap, Pancakeswap, etc.)
-* ScalePad via Short term PDO         2,927,500,000       
-* Scalepad via Long term PDO          2,927,500,500
-* CEX Market Making                        10,000,000
-* Rewards                                10,000,000
-* Router                                        2,000,000,000
-* Treasury                                0
-* Team and founders                        0
-                                                                 
-Post minting
-After the initial minting, VSX tokens can be minted based on equal value being added to the ecosystem. This minting is intended to encourage use of the platform through the reimbursement smart contract and the Router, which helps to increase liquidity and reduce pressure on sales.
- 
-VTX Price
-Baseline Pre-sale via SAFT:                 $0.01 
-Baseline Public sale via IBO:                $0.01
-Listing price:                                 $0.02
-
-
-
-
- Future split
-Since VSX has the potential to grow in value significantly, it may become difficult for some investors to justify buying them at their current face value. In this case, Vsinger.exchange may decide to split the tokens, giving users an equal number of VSX tokens with a face value of $0.01. This would not affect the total value of the investors' holdings, but the number of tokens in their wallet would increase proportionally to reflect the split. This split is meant to make it easier for investors to buy VSX and participate in the ecosystem.
-
-
-Example
-1. An investor holds 100 VSX with a face value of $1000. The investors total holdings equals $100,000 (100 x $1,000).
-2. VTube.exhange announces a split
-3. VSX splits and distributes, to VSX holders, VSX proportionate to the new price.
-4. The new price/face value is $0.01. The investor now holds 10,000,000 MSQ, still valued at $100,000 (10,000,000 x $0.01).
- 
- 
 
 
 
