@@ -1,4 +1,4 @@
-﻿Post Dex Offering 
+Post Dex Offering 
 New ScalePad model to boost existing projects after launchpad
 
 
@@ -295,25 +295,5 @@ Secure Future charges a 2.5% fee on APY earned through if Secure Future is execu
 
 Use of fees breakdown
 The fees generated from PDO finance are used as follows: 80% is used to buy PDO tokens, which increases the value of the token and decreases the total supply. 20% goes to Qwantum Finance Labs as a licensing fee for the PDO finance technology and to support the project.
-
-
-PDO License
-Qwantum Finance Labs is an infrastructure company that adopts a B2B2C business model as its main go-to-market strategy. Under this model, potential partners can apply for white-label licensing to benefit from revenue sharing and their own branding. This approach aims to prevent competition from copycat players and allows Qwantum Finance Labs to focus on serving its partners while they serve their end-users.
-When a project raises funds via PDO on a licensed platform, an additional 2.5% success fee will be charged and allocated to the licensee. In addition to the 2.5% fee, the licensee can also set any additional fees as a percentage of fixed or hybrid amounts.
-The licensee's white-label platform can be set as public or private. In the case of a public platform, all PDOs on the licensee platform will be displayed on other public licensee platforms and vice versa. In the case of a private platform, the licensee will act as a closed club and the PDOs on that platform will remain exclusive to that platform, and no other PDOs will appear on it.
-
-
-Example 
-
-
-* XYZ has applied for a white-label license with PDO finance to use the PDO scalepad under its own branding and design
-* When a project raises $1,000,000 via PDO on XYZ's scalepad, PDO finance charges an additional 2.5% success fee ($25,000) to be allocated to XYZ as the licensee
-* XYZ scalepad can also set additional fees as a percentage of fixed or hybrid amounts (e.g. 1% fee on each transaction, resulting in an additional $10,000 fee)
-PDO Tokenomics
-Digital Royalty Token
-The PDO tokens are designed to act as digital royalty tokens (DRT) instrument tied and correlated to the business performance of the PDO finance project. To achieve this, the smart contract uses 80% of the overall fees from the project to buy PDO digital royalty tokens from the market and place them in a zero address, effectively "burning" the tokens and reducing the total supply. This process occurs in real-time and helps to increase the value of the remaining PDO digital royalty tokens. 
-Digital Royalty Token vs simple tokens
-Digital Royalty Tokens (DRT ) are different from regular tokens in that they have an underlying value that is derived from the income stream of a project. This means that the value of DRT tokens is not solely based on speculation, like regular tokens often are. Instead, the value of DRT tokens is based on the real-time traction and success of the project they represent.
-As a result, DRT tokens may be more resistant to market downturns than regular tokens. Even when the market is crashing and the value of other tokens based on speculation is decreasing, DRT tokens may still hold value because they have a potential return on investment based on their proven income stream. Buyers may be attracted to DRT tokens in a down market because they see the potential for the value of the token to increase based on the project's performance.
 
 
