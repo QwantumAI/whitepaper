@@ -556,16 +556,6 @@ The DEREX project does not plan on conducting any pre-sale or fundraising for de
 
 
 
-
-Digital Royalty Token
-The $DEX tokens are designed to act as Digital Royalty Tokens instruments tied and correlated to the business performance of the DEREX project. 
-The Digital Royalty Token model affects the $DRX price in two ways. First by useing 80% of the overall fees from the project product to buy $DRX from the pool which couse to naturel appreciation of the tokens, and second by placing those purchased tokens in a zero address, effectively "burning" the tokens and reducing the total supply. 
-This process occurs in real-time and helps to increase the value of the remaining $DRX tokens. 
-
-
-Read more about Digital Royalty Tokens 
-
-
 Use of fees breakdown
 The fees generated from $DRX are used as follows: 80% is used to buy $DRX tokens, which increases the value of the token and decreases the total supply. 20% goes to Qwantum Finance Labs as a licensing fee for the $DRX technology and to support the project.
 
