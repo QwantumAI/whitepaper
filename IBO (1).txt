@@ -112,8 +112,6 @@ DEREX charges no fees that can be paid from raised funds, as those funds must re
 The project has the option to decide how DEREX will manage the tokens that are paid as fees. They can either invest the 10% fee to support the project through PDO liquidity creation or establish a Dumper Shield, with the 10% fee being held behind it according to the project's set terms.
 
 
-Read more about Dumper Sheild 
-Read more about PDO 
 
 
 
@@ -124,16 +122,3 @@ Read more about PDO
 
 
 
-
-
-
-
-
-
-
-
-________________
-[1] All new technologies carry risks that may result in loss. The risk-free theory is not legally binding or a guarantee of future success.
-.
-[2] This document does not make any legal advice. It is advisable for those reading to seek advice from a professional legal expert.
-[3] This document does not make any tax warranty claims. It is advisable for those reading to seek advice from a professional accounting expert.
