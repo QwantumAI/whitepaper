@@ -1,4 +1,4 @@
-﻿Reverse Market Making 
+Reverse Market Making 
 A decentralized quantum finance liquidity solution for NFTs, where holders can sell their NFTs directly to a smart contract, eliminating the need for exchanges based peer-to-peer sales such as OpenSea
 
 
@@ -151,11 +151,3 @@ RMM Projects
 Qwantum Finance Labs has developed several sister projects that utilize similar RMM technology, each project is focused on a different industry, such as the Metaverse, Music, Movies, Gaming, and VTubers
 
 
-
-
-
-
- 
-________________
-[1] Using liquidity protection to receive principal funds back may not be considered a taxable event, but it is recommended to consult local tax professionals. Qwantum Finance Labs makes no warranties on tax or legal simulations.
-[2]  Using a third-party staking protocol can carry the risk of losing funds if the provider goes out of business. Additionally, the APY generated from these protocols can be subject to change based on their terms. Qwantum Finance Lab is not vouchesing for the safety and financial strength of these protocols, stake at your own risk..
