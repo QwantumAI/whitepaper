@@ -1,5 +1,4 @@
-﻿//DRAFT//
-Multiverse Whitepaper v.2.1
+Multiverse 
 
 
  
@@ -231,46 +230,3 @@ P2P Lands with 0% fee
 In addition to the innovative solutions offered by Multiverse it also enables users to conduct standard peer-to-peer transactions (without liquidity protection) that are offered by other NFT marketplaces, such as OpenSea, Uniswap, and others, at no charge and with 0% fees.
 
 
-Tokenomics
-Digital Royalty Token
-The VRS tokens are designed to act as digital royalty tokens (DRT) instrument tied and correlated to the business performance of the Multiverse project. To achieve this, the smart contract uses 80% of the overall fees from the project to buy VRS digital royalty tokens from the market and place them in a zero address, effectively "burning" the tokens and reducing the total supply. This process occurs in real-time and helps to increase the value of the remaining VRS digital royalty tokens. 
-Digital Royalty Tokens vs simple tokens
-Digital Royalty Tokens (DRT ) are different from regular tokens in that they have an underlying value that is derived from the income stream of a project. This means that the value of DRT tokens is not solely based on speculation, like regular tokens often are. Instead, the value of DRT tokens is based on the real-time traction and success of the project they represent.
-As a result, DRT tokens may be more resistant to market downturns than regular tokens. Even when the market is crashing and the value of other tokens based on speculation is decreasing, DRT tokens may still hold value because they have a potential return on investment based on their proven income stream. Buyers may be attracted to DRT tokens in a down market because they see the potential for the value of the token to increase based on the project's performance.
-Pre-mint
-The VRS digital royalty token supply does not include a founders' allocation or any reserves for the team or development. Instead, the supply is focused solely on adding value and liquidity to the ecosystem through value-added structures.
-
-
-Total pre-mint:                                 10,000,000,000
-Breakdown allocation
-* Pre-sale via SAFT                        679,166,667
-* Public sale via NFT lootbox                1,320,833,333                (100% liquidity protection)
-* Public sale via IBO                        2,500,000                (100% liquidity pool)
-* Post-launch via LP insure                50,000,000                  (100% liquidity pool)
-* ScalePad via Short term PDO         2,868,750,000           (50% dumper shield + 50% liquidity pool)
-* * Scalepad via Long term PDO          2,868,750,000        (50% dumper shield + 50% liquidity pool)
-* CEX Market Making                        10,000,000
-* Self custody staking                         200,000,000
-* Router                                        2,000,000,000
-* Treasury                                0
-* Team and founders                        0                              
-Post minting
-After the initial minting, VRS tokens can be minted based on equal value being added to the ecosystem. This minting is intended to encourage use of the platform through the reimbursement smart contract and the Router, which helps to increase liquidity and reduce pressure on sales.
-
-
-VRS price
-Baseline Pre-sale via SAFT:                 $0.01 
-Baseline Public sale via IBO:                $0.01
-Listing price:                                 $0.02
-
-
-Future split
-Since VRS has the potential to grow in value significantly, it may become difficult for some investors to justify buying them at their current face value. In this case, VRS may decide to split the tokens, giving users an equal number of VRS tokens with a face value of $0.01. This would not affect the total value of the investors' holdings, but the number of tokens in their wallets would increase proportionally to reflect the split. This split is meant to make it easier for investors to buy VRS  and participate in the ecosystem.
-
-
-Example
-1. An investor holds 100 VRS  with a face value of $1000. The investor’s total holdings equal $100,000 (100 x $1,000).
-2. Multiverse announces a split
-3. VRS  splits and distributes, to VRS holders, VRS proportionate to the new price.
-4. The new price/face value is $0.01. The investor now holds 10,000,000 VRS , still valued at $100,000 (10,000,000 x $0.01).
- 
